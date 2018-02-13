@@ -1,1 +1,4 @@
 pyCMR
+__env.py
+*.pyc
+
