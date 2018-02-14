@@ -1,4 +1,5 @@
 # data-pull
 
 ## Dependencies
-Just one: https://github.com/nasa/pyCMR
+- [pyCMR](https://github.com/nasa/pyCMR)
+- [gensim](https://radimrehurek.com/gensim/install.html)
