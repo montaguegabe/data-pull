@@ -2,3 +2,4 @@ pyCMR
 __env.py
 *.pyc
 
+proquest-pull/scientific/*

@@ -1,0 +1,5899 @@
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Journal of Applied Psychology
+2017, Vol. 102, No. 1, 88 –103
+
+0021-9010/17/$12.00
+
+© 2016 American Psychological Association
+http://dx.doi.org/10.1037/apl0000155
+
+Increasing Pro-Environmental Behaviors by Increasing Self-Concordance:
+
+Testing an Intervention
+
+Kerrie L. Unsworth
+
+University of Leeds
+
+Ilona M. McNeill
+University of Melbourne
+
+Globally, there is a clear need to change our behavior to mitigate climate change. Many people, however,
+will not find the need for mitigation important enough to make their behavior more environmentally
+sustainable. Three studies supported the hypothesis that it is possible to overcome this issue by
+connecting these behaviors to goals that are important to people, even if such goals are unrelated to
+climate change or the environment in general. Study 1 (N ⫽ 305 working adults) showed that stronger
+self-concordance of behavior related to energy sustainability was related to a greater chance of signing
+a petition for increasing renewable energy sources. Next, 2 experimental studies (Study 2: N ⫽ 412
+working and nonworking adults, and Study 3: N ⫽ 300 working adults) showed that increasing
+self-concordance of environmentally sustainable behaviors by asking people to cognitively connect either
+sustainable energy use (Study 2) or commuting behaviors (Study 3) to their personal goals increased
+intentions to engage in these behaviors compared to a control condition (Study 2 and Study 3) and
+compared to persuasion attempts based on climate change mitigation (Study 3). These findings occurred
+even after controlling for political orientation and environmental concerns. This research has significant
+practical implications for workplaces, particularly for those in which employees or managers place a low
+priority on environmental and climate change considerations.
+
+Keywords: self-concordance, sustainability, environmental psychology, pro-environmental behavior,
+corporate social responsibility
+
+Despite protests by some, there is no doubt that the climate of
+the world is changing (Parry, Canziani, Palutikof, van der Linden,
+& Hanson, 2007; Australian Bureau of Meteorology, 2013; Peter-
+son, Hoerling, Stott, & Herring, 2013) and that mitigation of this
+change requires a reduction of carbon dioxide emissions. This
+necessitates an alteration of carbon emission related behaviors
+such as switching to alternative, nonfossil-based energy sources,
+reducing the general demand for energy and switching to public
+transport rather than own-car usage (Barnett et al., 2011). In line
+with this, the past decade has seen an increase in organizational
+research examining how environmental sustainability can best be
+improved through organizational processes such as corporate so-
+
+This article was published Online First September 12, 2016.
+Kerrie L. Unsworth, Leeds University Business School, University of
+Leeds; Ilona M. McNeill, Melbourne School of Psychological Sciences,
+University of Melbourne.
+
+This work was carried out with financial support from the Australian
+Government (Department of Climate Change and Energy Efficiency) and
+the National Climate Change Adaptation Research Facility (NCCARF).
+The views expressed herein are not necessarily the views of the Common-
+wealth or NCCARF, and neither the Commonwealth nor NCCARF accept
+responsibility for information or advice contained herein. Different parts of
+this work were presented at the Academy of Management Conference in
+2014 and 2015.
+
+Correspondence concerning this article should be addressed to Kerrie L.
+Unsworth, Leeds University Business School, Maurice Keyworth Build-
+ing, University of Leeds, Moorland Road, Leeds LS6 1AN, UK. E-mail:
+k.l.unsworth@leeds.ac.uk
+
+88
+
+cial responsibility strategies and human resource procedures (e.g.,
+Aguilera, Rupp, Williams, & Ganapathi, 2007; Aguinis & Glavas,
+2012, 2013; Andersson & Bateman, 2000; Andersson, Jackson, &
+Russell, 2013; Bratton & Bratton, 2015; Davis & Coan, 2015;
+Delmas & Pekovic, 2013; Jackson, Ones, & Dilchert, 2012; Nor-
+ton, Zacher, & Ashkanasy, 2012, 2014). Although these mac-
+rolevel changes are sometimes successful (e.g., Andersson, Shi-
+varajan, & Blau, 2005) their effects are underwhelming (see
+Young et al., 2015). This is likely because their effectiveness
+largely depends on whether or not employees are willing to change
+their behavior in line with these organizational-wide systems (Da-
+vis, Leach, & Clegg, 2011) and unfortunately, organizational pro-
+cedures aimed at increasing environmental sustainability are not
+always followed by employees (Davis & Challenger, 2012, 2015).
+This lack of employee engagement in environmentally sustainable
+behaviors could be due to several factors, such as a mismatch with
+personal values or beliefs (e.g., Stern, 2000), low priority of
+sustainability within the organization leading to conflicting goals
+(Unsworth, Dmitrieva, & Adriasola, 2013), or cynicism due to a
+perceived mismatch between what the organization “says” and
+what it “does” with regards to sustainability (Aguinis & Glavas,
+2013). This has raised the need to increase our understanding of
+how to overcome these barriers and increase employees’ perfor-
+mance of environmentally sustainable behaviors.
+
+The majority of research aimed at increasing individuals’ per-
+formance of environmentally sustainable behaviors has generally
+taken one of two approaches (for reviews of workplace interven-
+tions, see Osbaldiston & Schott, 2012; Unsworth, 2015; Young et
+al., 2015). First, studies based on psychological theories such as
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+89
+
+Theory of Planned Behavior (e.g., Fielding, McDonald, & Louis,
+2008), the Values-Beliefs-Norms model (e.g., Stern, 2000), Self-
+Determination Theory (e.g., Pelletier, Tuson, Green-Demers, No-
+els, & Beaton, 1998), or a normative or leadership approach (e.g.,
+Andersson et al., 2005; Cialdini, 2003; Graves, Sarkis, & Zhu,
+2013; Kim, Kim, Han, Jackson, & Ployhart, 2014; Walls & Hoff-
+man, 2013) have aimed to motivate people by influencing their
+environmental and altruistic values, perceived social and personal
+norms related to environmentally sustainable behaviors, knowl-
+edge of climate change, and attitudes toward the environment and
+climate change (e.g., Bamberg & Moser, 2007; Black, Stern, &
+Elworth, 1985; Dono, Webb, & Richardson, 2010; Fielding, Terry,
+Masser, & Hogg, 2008; Han, Nieuwenhijsen, de Vries, Blokhuis,
+& Schaefer, 2013; Stern, Dietz, & Guagnano, 1995; Sussman,
+Greeno, Gifford, & Scannell, 2013). What these studies have in
+common is their focus on explicitly working toward environmental
+goals, in other words, motivating people to behave in environmen-
+tally sustainable ways by convincing them to help the environment
+(Unsworth, 2015). This, of course, seems like an obvious course of
+action, particularly as motivation appears to be of great influence
+on employee green behavior (Norton, Parker, Zacher, & Ashka-
+nasy, 2015). Yet, not everyone is susceptible to techniques focused
+on environmental goals.
+
+It is human nature to devalue, disregard, or even act adversely to
+information that is not in line with one’s own attitudes and goals
+(e.g., Clark & Evans, 2014; Hart et al., 2009; Strickland, Taber, &
+Lodge, 2011). Therefore, environmentally focused techniques will
+be ineffective for those who refute that climate change is happen-
+ing, who do not find environmental sustainability particularly
+important, or whose political identities prime them for opposing
+environmental policies and behaviors (see, e.g., Unsworth & Field-
+ing, 2014). Importantly, the percentage of people falling in these
+categories appears to be substantial. For example, a relatively
+recent study among 1,001 Americans showed that 28% either did
+not believe global warming was happening or did not believe
+humans could reduce it, even if it was happening (Leiserowitz,
+Maibach, & Roser-Renouf, 2009). Similarly, a large international
+poll conducted in 2014 showed that 38% of Australians and 36%
+of Americans agreed with the statement “I’m tired of the fuss that
+is being made about the environment” and even larger percentages
+(55% and 50%, respectively) agreed with the statement “The
+government is just using environmental issues as an excuse to raise
+taxes” (Ipsos MORI, 2014). Moreover, even in the absence of
+conflicting attitudes or beliefs, environmental goals may conflict
+with the person’s privacy goals within the organization (Bol-
+derdijk, Steg, & Postmes, 2013) or the organization’s goals, lead-
+ing to less engagement in organizational interventions with a
+pro-environmental focus (Unsworth et al., 2013).
+
+The second research approach to influencing behavior comes
+from an economics, human factors or behavioral finance perspec-
+tive and often uses rewards or compliance strategies to increase
+environmentally sustainable behaviors (e.g., Midden, Meter,
+Weening, & Zieverink, 1983; Slavin, Wodarski, & Blackburn,
+1981; Stern, 2011; Thøgersen & Moller, 2008). Yet this extrinsic-
+motivators-based research too has had problems. For one, the
+effect of rewards does not last a long time (Slavin et al., 1981;
+Thøgersen & Moller, 2008). Furthermore, using compliance strat-
+egies can backfire and result in rebound effects (Berkhout, Mus-
+kens, & Velthuijsen, 2000; Greening, Greene, & Difiglio, 2000;
+
+Schipper & Grubb, 1998). In sum, these two approaches have
+provided mixed effects at best (see Osbaldiston & Schott, 2012;
+Young et al., 2015).
+
+We propose a third approach to influencing environmentally
+sustainable behavior, which is based on goal hierarchy (Cropan-
+zano, James, & Citera, 1993; Unsworth, Adriasola, Johnston-
+Billings, Dmitrieva, & Hodkiewicz, 2011; Unsworth, Yeo, &
+Beck, 2014) and goal systems (Kruglanski et al., 2002) theories.
+This type of approach was first suggested by Rupp, Williams, and
+Aguilera (2011). It allows the individual to choose to engage in the
+environmentally sustainable behaviors autonomously (so as to
+avoid the negative effects of extrinsic motivation) but is flexible in
+the goals that are chosen as outcomes of the behaviors (so as to
+avoid problems based on having no interest in the suggested goal).
+More specifically, we suggest that increasing the degree to which
+environmentally sustainable behaviors serve the person’s own
+preexisting values, identities, and long-term goals, also referred to
+as the behaviors’ self-concordance (Sheldon & Elliot, 1999), will
+result in more widespread engagement in these behaviors, provid-
+ing organizations with greater means for adapting to and mitigat-
+ing against climate change. We propose that this will occur even
+after controlling for related factors such as environmental concerns
+and political ideology. In the following sections, we will introduce
+both the theoretical background to our approach, as well as the
+empirical findings that served as a basis for the development of our
+hypotheses and self-concordance based intervention. Next, we will
+present a time-lagged correlational study and two experiments that
+test this intervention.
+
+Theoretical Underpinnings of Self-Concordance
+
+The premise of self-concordance is based on the notion of a goal
+hierarchy (Cropanzano et al., 1993; Unsworth et al., 2011; Un-
+sworth et al., 2014). A goal hierarchy, or goal system (see Figure
+1), comprises all of a person’s values (e.g., power, creativity),
+identities (e.g., leader, teacher, researcher), long-term goals (e.g.,
+publishing a paper), and day-to-day behaviors and tasks (e.g.,
+answering emails); these include both work and home values,
+identities, goals, and tasks (Austin & Vancouver, 1996; Unsworth
+et al., 2014). Moreover, there are connections between these levels
+that can be facilitative or inhibitive (Kruglanski et al., 2002;
+Unsworth et al., 2014). For example, the connection between a
+particular behavior and a long-term goal
+is facilitative if the
+behavior helps to achieve the goal. As a result of this connection,
+activation of one (i.e., wanting to achieve either the behavior or
+goal) will result in activation of the other. Contrarily, the connec-
+tion between a behavior and a goal is inhibitive if the behavior is
+perceived as impeding progress toward the goal or vice versa:
+Where such inhibitive connections exist, activation of one will lead
+to suppression of the other (Kruglanski et al., 2002; Unsworth et
+al., 2014).
+
+For example, Figure 1 portrays a section of an academic’s goal
+hierarchy. This academic might see “working on statistical analy-
+ses” as having a facilitative connection to his goal of getting an
+article published and to his identity as a researcher; thus, this
+behavior is likely to be activated whenever his publishing goal or
+researcher identity is activated. On the other hand, the academic
+might view that same behavior as hindering progress toward his
+teaching goal; the teaching goal is therefore likely to be inhibited
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+90
+
+UNSWORTH AND MCNEILL
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Respect 
+
+Helpfulness 
+
+Family 
+
+Values 
+
+Leader 
+
+Researcher 
+
+Teacher 
+
+Father 
+
+Identities 
+
+Supervise 
+Students 
+
+Conduct 
+Research 
+
+Teach 
+
+Psych 101 
+
+Balance 
+Work-life 
+
+Learn 
+Prezi 
+
+Project 
+Goals 
+
+Statistical 
+analyses 
+
+Writing a 
+
+paper 
+
+Turning off 
+office lights 
+
+Preparing for 
+
+Teaching 
+
+Task 
+Goals 
+
+Figure 1. Example of a goal hierarchy (based on Cropanzano, James, & Citera, 1993). Psych ⫽ Psychology.
+See the online article for the color version of this figure.
+
+(or “forgotten”; Shah, Friedman, & Kruglanski, 2002) whenever
+the academic is working on statistical analyses. With regard to
+environmental behavior, this person might perceive the day-to-day
+task of turning off office lights as connected to his teaching goal
+because by doing so he teaches his students in that class about
+pro-environmental workplace behaviors.
+
+Self-concordance is the motivational propensity that derives
+from the degree to which a particular behavior is connected in this
+way to the rest of the person’s goal hierarchy. Self-concordance
+between a behavior and higher-order goals (that is, all goals that
+are higher in the goal hierarchy than the focal behavior) tends to be
+calculated as the combination of two factors, namely (a) the degree
+to which a particular behavior has more positive, facilitative con-
+nections and fewer negative, inhibitory connections with a per-
+son’s higher-order goals and (b) the personal importance of these
+higher-order goals to which the connections are made (Adriasola,
+Steele, Day, & Unsworth, 2011; Adriasola & Unsworth, 2011;
+Adriasola, Unsworth, & Day, 2012; Sheldon & Emmons, 1995;
+Sheldon & Kasser, 1995). Thus, self-concordance does not denote
+particular higher-order goals as important for everyone, in contrast
+to, for example, self-determination theory (Deci & Ryan, 1985).
+Instead, it takes a broader perspective and, rather than a one-size-
+fits-all approach, it is left to the individual to determine which
+goals are important to him or her self. Self-concordance is theo-
+rized to increase the motivation toward the specified behavior
+based on both a utilitarian approach (the behavior that helps to
+achieve the highest number of important higher-order goals pro-
+vides more “bang for the buck” and thus more motivational power)
+and a self-consistency approach (a behavior that helps to achieve
+more higher-order goals is more easily regulated and enables
+personality integration and positive well-being; Kruglanski et al.,
+2013; Sheldon & Kasser, 1995).
+
+Importantly, the connections between behaviors and higher-
+order goals are supposed to be malleable such that they can be
+activated or deactivated, and strengthened or weakened, depending
+upon situational circumstances and learning (Hanges, Lord, &
+Dickson, 2000; Lord & Brown, 2001; Unsworth et al., 2014). For
+example, in Figure 1 the self-concordance of turning off office
+lights is weak to moderate because it has a facilitative connection
+to one goal (i.e., teaching) and no inhibitive connections. However,
+if the academic realizes that turning off office lights can be used as
+
+a behavioral measure for his research into workplace pro-
+environmental behavior, his previous nonexistent relationship be-
+tween turning off office lights and his research goal might be
+changed to facilitative and his self-concordance for turning off
+office lights will, consequently, increase. This is an example of
+how self-concordance can be theoretically increased using a per-
+son’s existing goals, without this person needing to have a goal,
+identity or value focusing on environmental consideration or cli-
+mate change. Thus, because self-concordance provides a motiva-
+tional propensity to act regardless of the specific content of the
+higher-order goals, the malleability of connections between behav-
+iors and goals could provide a means of increasing the perfor-
+mance of environmentally sustainable behaviors not only in those
+who hold environmental goals, but also in cases where the goal of
+“helping the environment” is seen as controversial or workplace-
+irrelevant.
+
+Empirical Evidence for Effects of Self-Concordance
+
+the principle of
+
+Empirically, self-concordance has been related to motivation
+toward and engagement in behaviors in a variety of domains, such
+as work-related performance (Bono & Judge, 2003; Molina, Un-
+sworth, Hodkiewicz, & Adriasola, 2013), citizenship behaviors
+(Greguras & Diefendorff, 2010), leader behaviors (Adriasola et al.,
+2011), freshman adjustment behaviors (Sheldon & Houser-Marko,
+2001), and planning for natural hazards (McNeill, Dunlop, Skin-
+ner, & Morrison, 2015). However,
+self-
+concordance has not yet been empirically tested in relation to
+environmentally sustainable behaviors, which is distinct from the
+behaviors tested in previous studies. More specifically, the behav-
+iors in previous studies that have examined the role of self-
+concordance have all had direct connections with egocentric goals
+(e.g., work-related performance helps with personal appraisals, the
+performance of adjustment behaviors helps with personal coping,
+the performance of planning behaviors helps with personal sur-
+vival in the face of a hazard). Environmentally sustainable behav-
+iors, on the other hand are generally seen as having consequences
+for society at large, rather than just the individual. In addition, their
+consequences tend to have a much longer time-frame relative to
+the consequences of behaviors that normally occur in an organi-
+zation (Bansal & Knox-Hayes, 2013). It might be that the distance
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+91
+
+in goals (personal consequences compared to societal conse-
+quences) and time-frame of the consequences alter the role played
+by self-concordance. As such, we cannot directly generalize the
+findings from previous research.
+
+Still,
+
+there are some research findings that suggest self-
+concordance plays a similar role in predicting behavior in the
+context of environmental sustainability as it does in relation to
+behaviors that tend to be solely connected to egocentric goals.
+First, Myers, Nisbet, Maibach, and Leiserowitz (2012) tested the
+effect of three different message frames on U.S. citizens’ emo-
+tional reactions to climate change information. These messages
+framed climate change as a risk to the environment, public health,
+or national security. They found that the frame that engendered
+emotions that were most supportive of climate change mitigation
+across different audiences was around public health. Second, Bain,
+Hornsey, Bongiorno, and Jeffries (2012) looked specifically at
+climate change skeptics and attempted to influence their willing-
+ness to engage in environmental citizenship behaviors (sustainable
+behaviors focused specifically on voluntary tasks) by asking them
+to what extent they thought such behaviors would serve interper-
+sonal warmth, societal development or a reduction of climate
+change induced hazards. They found that asking skeptics to relate
+environmental citizenship behaviors to interpersonal warmth or
+societal development led to greater intentions to engage in the
+behaviors than asking them to relate these behaviors to a reduction
+in environmental hazards. We suggest that both sets of findings
+can be explained by differences in self-concordance. More specif-
+ically, most people would hold public health,
+interpersonal
+warmth, and societal development as higher-order goals; activating
+the connection between environmental behaviors and these goals is
+therefore likely to increase the self-concordance of these behaviors
+for people regardless of their views on climate change. In contrast,
+activation of the goal of reducing climate change related risks is
+more likely to have been in conflict with the personal attitudes and
+goals of the respondents, given that the first study was conducted
+among U.S. citizens, many of whom hold attitudes and goals in
+conflict with goals related to climate change (Ipsos MORI, 2014;
+Leiserowitz et al., 2009), and the second study was run among
+climate change skeptics, all of whom are likely to hold conflicting
+attitudes and goals to a certain degree. Given the higher likelihood
+of goal conflict, the climate change-related conditions would not
+have increased self-concordance in as many cases.
+
+The findings from previous research are thus in line with the
+idea that self-concordance plays a role in the context of environ-
+mentally sustainable behaviors. However, neither of these studies
+explicitly measured self-concordance of the sustainable behaviors.
+In addition, no study to date, neither within the domain of envi-
+ronmentally sustainable behaviors nor in relation to other behav-
+iors has explicitly focused on influencing behavior by manipulat-
+ing self-concordance. Furthermore,
+the studies that may have
+influenced intentions or behavior by increasing self-concordance,
+albeit without measuring it (e.g., Bain et al., 2012), have asked
+respondents to create a connection between the target behavior and
+one specific higher order goal. Because the self-concordance of a
+behavior is based on what each individual considers his or her own
+important goals, the manipulation of self-concordance should ide-
+ally include the possibility of creating connections with a variety
+of goals that people might find personally important, rather than
+prescribing a connection to a single goal.
+
+We thus set out to expand on past research in two important
+ways. First, we wanted to test our theorizing that there is a
+relationship between the self-concordance of environmentally sus-
+tainable behaviors on the one hand and intentions to perform and
+actual performance of such behaviors on the other. Based on our
+previous argument we believe this is the case. Therefore, we
+hypothesized that:
+
+Hypothesis 1: There will be a positive relationship between
+self-concordance of environmentally sustainable behavior and
+both intentions to perform and actual performance of environ-
+mentally sustainable behavior.
+
+Second, based on our theorizing, we believe that encouraging
+people to create facilitative connections between environmentally
+sustainable behavior and the goals that are important to them will
+increase the self-concordance of these behaviors and, as a result,
+increase people’s intentions to engage in these behaviors. Thus, we
+hypothesize that:
+
+Hypothesis 2a: Persuading people to create connections be-
+tween environmentally sustainable behaviors (namely, sus-
+tainable energy use and commuting) and their higher-order
+goals will be associated with an increase in intentions to
+engage in these sustainable behaviors.
+
+Hypothesis 2b: The relationship between the self-concordance
+intervention and intentions to perform environmentally sus-
+tainable behaviors will be mediated by perceived self-
+concordance of these behaviors.
+
+We tested these hypotheses in three complementary studies. The
+first was a temporally lagged study of working adults, which tested
+the relationship between self-concordance of environmentally sus-
+tainable energy behavior and a behavioral measure of increasing
+environmentally sustainable use of energy by signing a petition.
+The next two studies were experimental surveys in nonstudent
+samples that incorporated our newly developed self-concordance
+manipulation: One examined the effects of the self-concordance
+manipulation on intentions to engage in environmentally sustain-
+able energy behaviors compared to a control condition while the
+other compared the effects of the self-concordance manipulation
+on intentions to engage in environmentally sustainable ways of
+commuting to work with both a traditional climate change manip-
+ulation and a control condition. These three studies complement
+each other both theoretically and methodologically. Theoretically,
+Study 1 takes a static, individual differences approach whereas
+Studies 2 and 3 examine the dynamic and malleable nature of
+self-concordance. Methodologically, Studies 2 and 3 provide
+causal evidence that builds on the correlational evidence of Study
+1, whereas Study 1 uses an actual behavioral measure that com-
+plements the intentions measures in Studies 2 and 3.
+
+Study 1
+
+Sample
+
+For the first study, we accessed a sample of Australian working
+adults from an accredited panel survey organization (Qualtrics).
+Participants who opted-in to complete the study (and who received
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+92
+
+UNSWORTH AND MCNEILL
+
+a small cash or noncash payment of approximately AU$6 for each
+survey [AU$18 per hour] from Qualtrics for doing so) received
+two surveys spread 1 month apart to decrease the likelihood of
+cross-sectional response biases. The first wave of data collection
+received 528 complete responses (260 males and 266 females;
+⫽ 45.57, SD ⫽ 16.13). The second wave of data collection
+Mage
+received 305 complete responses (148 males and 157 females,
+⫽ 47.35 years, SD ⫽ 15.62 years). Combining all data across
+Mage
+both waves of data collection, we were able to match 303 re-
+sponses across the two time periods (57.4% response rate at time
+two).
+
+Measures and Procedure
+
+Self-concordance. Self-concordance of environmentally sus-
+tainable use of energy was measured in the first wave of data
+collection. Its measurement was based on Adriasola and col-
+leagues’ operationalization (Adriasola et al., 2011; Adriasola &
+Unsworth, 2011; Adriasola et al., 2012) which, in turn, was based
+on Sheldon and Kasser (1995). Sheldon and Kasser (1995) asked
+participants to rate how helpful everyday strivings were to six
+idealized futures, and then summed the resulting scores to get a
+measure of overarching self-concordance. Adriasola and col-
+leagues modified this by focusing on self-concordance for one
+striving or behavior (in our case, energy behavior), by increasing
+the number of potential goals/futures to incorporate all relevant
+values and goals (see below) and by allowing each participant to
+indicate how important the idealized futures or values (in our case,
+goals) were to them; the helpfulness score was then weighted by
+the importance score. The importance weights thus allowed the
+goals that are important to an individual to play a bigger role in
+determining self-concordance than goals that are seen as irrelevant
+by the individual. Adding such importance weights is essential
+from a theoretical point of view because the self-concordance
+concept is based around a person’s individual goals, rather than
+assuming all people hold the same goals. As the measure is
+essentially an index, measuring internal reliability is not appropri-
+ate (Cronbach & Gleser, 1953). However, Adriasola and col-
+leagues have found this measure, when applied to leadership
+behavior (Adriasola et al., 2011; Adriasola & Unsworth, 2011) or
+work task behaviors (Adriasola et al., 2012), to have convergent
+validity with an older conceptualization of self-concordance and
+predictive validity with the specific behaviors over time.
+
+Table 1
+Study 1 Correlations, Means, and Standard Deviations
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Thus, we first asked participants to rate how important 12
+different goals were to them on a 5-point scale (from 1 “Not at all
+important” to 5 “Very important”). These goals were based on the
+full set of egoistic, altruistic, and biospheric values (Schwartz,
+1992; Schwartz, 1994; Stern, 2000; Stern & Dietz, 1994) as well
+as additional pro-environmental behavior motives (De Young,
+2000); they were financial goals, frugality, not standing out from
+the crowd, being helpful to others, protecting the environment,
+participating in changing the world, social justice, fulfilling re-
+quirements and obligations, being a good citizen/neighbor, looking
+after our children’s future, having a relatively easy or convenient
+life, and reducing the effects of climate change. Next, to determine
+the strength and valence of the connections between environmen-
+tally sustainable energy behavior and their higher-order goals we
+obtained ratings for how much participants believed that environ-
+mentally sustainable energy use would help them to achieve each
+of the 12 goals. The responses were rated on a 7-point scale
+ranging from 1 (very unhelpful [detrimental]) to 7 (very helpful).
+We calculated weighted self-concordance scores for environmen-
+tally sustainable use of energy by creating a weighted helpfulness
+score (i.e., helpfulness in achieving goal A ⫻ importance of goal
+A ⫹ helpfulness in achieving goal B ⫻ importance of goal B . . .
+and so on). Self-concordance scores were thus able to range from
+12 to 420. As shown in Table 1, and consistent with Adriasola and
+colleagues’ research, in our study energy self-concordance was
+significantly correlated with climate change beliefs (r ⫽ .22) and
+environmental identity (r ⫽ .49), indicating convergent validity;
+but was not correlated with broader attitudes such as political
+orientation (r ⫽ .02), indicating divergent validity.
+
+Support for sustainable energy. To capture a behavioral
+measure related to environmentally sustainable use of energy we
+told participants at the end of wave two that they could be involved
+in signing petitions that we were sending to the Federal Govern-
+ment Minister (see, e.g., Margetts, John, Escher, & Reissfelder,
+2011; Schumann & Klein, 2015). We made a clear separation
+between the survey questions and the petitions to decrease survey
+biases.
+
+Participants were offered the opportunity to sign two petitions,
+each representing different sides of the environmental debate to
+decrease social desirability biases. The first petition served as our
+measure related to environmentally sustainable use of energy. This
+was a petition in support of transitioning Australia to 100% re-
+
+Variable
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1. Age
+2. Gender
+3. Political orientationa
+4. Climate change beliefs
+5. Environmental identity
+6. Free-market orientation
+7. Self-concordance of energy use
+8. Petition behavior sustainable energy use
+Note. N ⫽ 167–525 (pairwise deletion).
+a Political orientation is coded as 0 “Right-wing oriented,” 1 “Left-wing oriented.”
+ⴱⴱⴱ p ⬍ .001.
+
+45.44
+1.50
+.58
+3.21
+6.15
+2.66
+159.79
+1.71
+
+16.25
+.50
+.49
+.92
+1.63
+.66
+62.65
+.46
+
+⫺.10
+⫺.03
+.07
+.12
+⫺.12
+.07
+.06
+
+⫺.01
+.08
+.11
+.05
+.21ⴱⴱⴱ
+.03
+
+.26ⴱⴱⴱ
+.10
+
+⫺.28ⴱⴱⴱ
+
+.02
+.33ⴱⴱⴱ
+
+.36ⴱⴱⴱ
+⫺.32ⴱⴱⴱ
+.22ⴱⴱⴱ
+.30ⴱⴱⴱ
+
+⫺.27ⴱⴱⴱ
+.49ⴱⴱⴱ
+.27ⴱⴱⴱ
+
+⫺.06
+⫺.25ⴱⴱⴱ
+
+.27ⴱⴱⴱ
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+93
+
+newable energy. The second petition served the purpose of de-
+creasing social desirability to sign the sustainable energy petition
+and was a petition in support of scrapping the carbon tax. The
+carbon tax was a controversial policy that had been implemented
+by the government at the time to aid in the reduction of carbon
+pollution. Although generally supported by those holding pro-
+environmental values, it was strongly contested by the opposition.
+Signing the second petition, scrapping the carbon tax, could be
+interpreted as anti-environmental behavior. However, because the
+tax was based on carbon pollution, which stems not only from
+energy use, but also from other factors such as manufacturing
+processes, this petition lacked a particular focus on sustainable use
+of energy. Participants were free to sign either petition or to refrain
+from signing either or both petitions. Both petitions were created
+using the rhetoric and wording identified in websites aimed at each
+viewpoint. For each petition, participants were told,
+
+You can decide how much your level of involvement is by (a) not
+signing the petition; (b) signing the petition and having the standard
+text provided; (c) signing the petition and altering the text to make the
+message more personal to you; or (d) signing the petition and writing
+your own personal message attached to your petition.
+
+Of the 305 respondents in the second wave, 181 answered the
+petition question that was our dependent variable construct (i.e.,
+environmentally sustainable use of energy; 59.3%). Of these,
+29.3% of those respondents responded that they were not inter-
+ested in signing the renewable energy petition, 65.7% signed using
+the standard text, 2.8% signed and modified the text, whereas 2.2%
+signed and created new text. Because of the skewedness in the
+responses, we combined the latter three responses to represent
+signing the renewable energy petition as our main variable; thus,
+the measure split the sample into those who signed the renewable
+energy pro-environmental petition (“2”) and those who indicated
+they were not interested in signing the petition (“1”). As expected,
+signing versus not signing this petition was unrelated to whether or
+not participants signed the second petition, r ⫽ ⫺.06, p ⫽ .77.
+
+Control variables.
+
+It is important to note that demographics
+and environmental goals at a range of levels of abstraction have
+been related to engagement in environmentally sustainable behav-
+ior in the past: This includes free-market ideology at the broadest
+level of abstraction (e.g., Heath & Gifford, 2006; Lewandowsky,
+Gignac, & Vaughan, 2013), environmental identity at a medium
+level (e.g., Fielding, McDonald et al., 2008; Fielding, Terry, et al.,
+2008; Sparks & Shepherd, 1992) and beliefs in anthropogenic
+climate change at the most specific level of abstraction (e.g., Bord,
+O’Connor, & Fisher, 2000; Gifford, 2011; Leviston & Walker,
+2012). Because the self-concordance of sustainable behaviors is
+partially based on the relationships these behaviors may have with
+environmental goals, we wanted to rule out the possibility that it is
+these relationships with environmental goals that are driving the
+behaviors, rather than the overall self-concordance, and thus we
+need to control for these variables.
+
+To capture free-market ideology, we included the measure by
+Heath and Gifford (2006), which asks participants to indicate the
+extent to which they agree with five statements (e.g., “The pres-
+ervation of the free market system is more important than localized
+environmental concerns”) on a 5-point scale ranging from 1
+(strongly disagree) to 5 (strongly agree; ␣ ⫽ .75). This measure
+was included in Wave 2. We captured the strength of a partici-
+
+pant’s environmental identity in the first wave of data-collection
+with the three item measure by Fielding, McDonald et al. (2008;
+e.g., “I think of myself as an environmentally-conscious person”).
+The items were measured on a 9-point scale ranging from 1 (very
+strongly disagree) to 9 (very strongly agree). Cronbach’s alpha for
+this sample was .94, indicating strong internal reliability. Finally,
+to control for climate change beliefs, we included the one-item
+measure developed by the Australian Commonwealth Scientific
+and Industrial Research Organization (CSIRO; Leviston &
+Walker, 2011) in the first wave survey. The question has been
+shown by Greenhill, Leviston, Leonard, and Walker (2014) to be
+the most valid of the current measures of climate change beliefs; it
+asks participants to choose the statement that best describes their
+general attitude toward climate change. The statements range from
+1 (lack of belief in climate change; “I do not believe in climate
+change”), 2 (through lack of knowledge; “I do not know whether
+climate change is happening or not”), 3 (through to belief in
+nonanthropogenic climate change; “I believe that climate change is
+happening but it’s just a natural fluctuation in Earth’s tempera-
+tures”), 4 (through to belief in anthropogenic climate change; “I
+believe that climate change is happening and humans are contrib-
+uting to it”).
+
+We also measured age, gender, and political orientation in the
+first wave, becaue previous research has found that they affect the
+performance of environmentally sustainable behaviors with
+younger, female and more left-wing-oriented people engaging in a
+greater number of environmentally sustainable behaviors (e.g.,
+Yue, Long, & Chen, 2013). Political orientation was dichotomized
+into “left-wing-oriented” (Labor Party, Greens Party) and “right-
+wing-oriented” (Liberal Party, Nationals Party). For international
+reference, at the time the study was conducted, the Australian
+Labor Party was most similar in orientation to the U.K. Labor
+Party and the U.S. Democrats, the Greens Party was most similar
+to the U.K. Greens Party, and the Liberal and Nationals Parties
+were most similar to the U.S. mainstream conservatives. Those
+who aligned with Independents were not included in the analysis
+as they supported single-issue candidates rather than being ideo-
+logically driven.
+
+Results
+
+Table 1 outlines the means, standard deviations and correlations
+between the variables. We first ran a logistic regression analysis
+with signing behavior related to the pro-environmental petition on
+renewable energy as the dependent variable. This analysis, shown
+in Table 2, showed that the total model was significantly related to
+renewable energy petition signing behavior (␹2 ⫽ 40.03, df ⫽ 7,
+p ⬍ .001; Cox & Snell R2 ⫽ .24). Most
+importantly, self-
+concordance of environmentally sustainable energy use was sig-
+nificantly positively associated with the likelihood of signing the
+renewable energy petition (B ⫽ .012, SE ⫽ .005, Wald statistic ⫽
+7.22, p ⫽ .007); the odds ratio was 1.012 (95% confidence interval
+[CI] ⫽ 1.003–1.12). As expected, political orientation had a sig-
+nificant relationship with petition behavior (B ⫽ 1.11, SE ⫽ .48,
+Wald statistic ⫽ 5.41, p ⫽ .020), however neither gender nor age
+was significantly related to it (B ⫽ ⫺.16, SE ⫽ .48, Wald statis-
+tic ⫽ 0.11, p ⫽ .74; B ⫽ .01, SE ⫽ .02, Wald statistic ⫽ 0.53,
+p ⫽ .47; respectively). Interestingly, the relationships of pro-
+environmental petition signing behavior with the environmentally
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+94
+
+UNSWORTH AND MCNEILL
+
+Table 2
+Study 1 Logistic Regression of Renewable Energy Petition
+Behavior on Higher-Order Environmental Goals and Energy
+Use Self-Concordance
+
+Variable
+
+Unstandardized
+regression weight
+
+Standard error
+
+The next study tested for causality within the relationship between
+self-concordance of environmentally sustainable use of energy and
+the intention to engage in environmentally sustainable energy
+behaviors (Hypothesis 2). In this study, we randomly assigned
+participants to an experimental and control group, increased self-
+concordance of the environmentally sustainable use of energy in
+the experimental group and then tested for differences in the
+intention to engage in environmentally sustainable energy behav-
+iors.
+
+Sample
+
+A sample of Australian adults from an accredited panel organi-
+zation (Qualtrics) was used to test our experimental hypothesis.
+Five hundred and seven participants opted-in and completed the
+survey for a small payment of approximately AU$6 (AU$24 per
+hour) or its equivalent in noncash payment made by Qualtrics;
+none of these participants had participated in Study One. Approx-
+imately half the participants (51.5%) were female and they came
+from a range of educational backgrounds (32.1% junior or high
+school; 36.7% had a technical qualification; 22.3% had a bache-
+lor’s degree; and 8.9% had a Masters or PhD), and political
+orientations (34.0% aligned with center-left Labor Party; 37.9%
+with conservative Liberal Party; 4.9% with the conservative Na-
+tionals Party; 7.7% with the left-wing Greens Party; and 15.6%
+with Independents).
+
+Measures and Procedure
+
+Manipulation. Of the 507 participants who completed the
+survey, 256 were randomly allocated to the experimental self-
+concordance condition and 251 to the control condition. Partici-
+pants in the control condition were not encouraged to identify
+connections between environmentally sustainable energy behav-
+iors and higher-order goals. In the self-concordance condition
+however, we aimed to increase the perceived connections between
+energy environmentally sustainable energy behaviors and the per-
+son’s important goals. Thus, after completing the section contain-
+ing the control variables and demographics, participants in the
+experimental condition were told a number of ways in which
+environmentally sustainable behaviors can help to achieve goals
+other than environmental ones:
+
+Sometimes, people think that dealing with climate change means that
+you have to make sacrifices or that you will not be able to achieve
+your goals. But, recently, it’s been shown that behaviors such as
+recycling, energy and water efficiency, careful use of transportation
+and so forth have a number of other benefits. For example, did you
+know that
+(cid:129) Turning off lights, changing your air-conditioner settings and other
+
+energy efficient behaviors helps you to save money.
+
+(cid:129) Commuting to work can give you time to catch up on your emails
+
+or allows you time to read or listen to audio-books.
+
+(cid:129) Being careful with your waste means that less plastic ends up in the
+oceans and we have cleaner beaches and healthier sea-life and
+bird-life so that you can enjoy your holidays more.
+
+(cid:129) A number of environmentally friendly products are also socially
+responsible, meaning that fewer people in third-world countries are
+being exploited.
+
+(cid:129) Walking and cycling instead of driving means that there are fewer
+
+cars on the road and fewer accidents.
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Age
+Gender
+Political orientation
+Free market ideology
+Environmental identity
+Climate change beliefs
+Energy use self-concordance
+Note. Total model: ␹2 ⫽ 40.03, df ⫽ 7, p ⬍ .001; Cox & Snell R2 ⫽ .24.
+N ⫽ 143 (listwise deletion).
+ⴱ p ⬍ .05.
+
+.01
+⫺.16
+1.11ⴱ
+⫺.72
+.24
+.21
+.01ⴱⴱ
+
+.02
+.47
+.48
+.37
+.16
+.25
+.005
+
+ⴱⴱ p ⬍ .01.
+
+related variables, namely climate change beliefs, environmental
+identity, and free-market ideology were also nonsignificant (B ⫽
+.21, SE ⫽ .25, Wald statistic ⫽ 0.71, p ⫽ .40; B ⫽ .24, SE ⫽ .16,
+Wald statistic ⫽ 2.26, p ⫽ .13; B ⫽ ⫺.72, SE ⫽ .37, Wald
+statistic ⫽ 3.67, p ⫽ .055, respectively); it is likely that, with the
+exception of free-market ideology, this is due to their overlap with
+self-concordance (r ⫽ .22, p ⬍ .001; r ⫽ .49, p ⬍ .001; r ⫽ ⫺.06,
+p ⫽ .36; respectively) indicating the more proximal effect of
+self-concordance.
+
+The 124 respondents who did not answer the pro-environmental
+petition question could be labeled as being unwilling to sign the
+petition. To investigate this possibility we first conducted a t test
+between respondents and nonrespondents: There were no signifi-
+cant differences in their level of self-concordance of environmen-
+tally sustainable energy use, t ⫽ .13, df ⫽ 476, p ⫽ .72. Next, to
+ensure that the findings of the logistic regression analysis reported
+above were robust, we reran the logistic regression but included
+nonrespondents as nonpetition-signers. Again, the total model was
+significantly related to renewable energy petition behavior (␹2 ⫽
+41.34, df ⫽ 7, p ⬍ .001; Cox & Snell R2 ⫽ .17) and self-
+concordance of sustainable energy use was significantly positively
+associated with the likelihood of signing the petition on renewable
+energy (B ⫽ .01, SE ⫽ .003, Wald statistic ⫽ 7.05, p ⫽ .008); the
+odds ratio was 1.01 (95% CI ⫽ 1.002–1.14).
+
+Next, we ran the four additional regression models, namely with
+or without nonresponders, and either without any controls or with
+only the demographic control variables. In all four logistic regres-
+sions, self-concordance of environmentally sustainable energy use
+was significantly positively associated with the likelihood of sign-
+ing the renewable energy petition (B ⫽ .011, SE ⫽ .003, Wald
+statistic ⫽ 11.48, p ⫽ .001; B ⫽ .005, SE ⫽ .002, Wald statistic ⫽
+9.95, p ⫽ .002; B ⫽ .01, SE ⫽ .003, Wald statistic ⫽ 10.48, p ⫽
+.001; B ⫽ .005, SE ⫽ .002, Wald statistic ⫽ 7.24, p ⫽ .007;
+respectively). Thus, the results of this first study were robust and
+supported Hypothesis 1.
+
+Study 2
+
+The first study showed a relationship over time between the
+self-concordance of environmentally sustainable use of energy and
+the behavioral measure of signing a petition for renewable energy.
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+95
+
+To encourage participants in the experimental condition to iden-
+tify personal connections between behaviors and their own goals,
+we then asked them: “What are some ways in which behaviors
+such as recycling, energy and water efficiency, careful use of
+transportation and so on could help you to achieve your goals?”
+Participants responded in a text box below this question, which
+served as a manipulation check. Any blank responses or responses
+such as “You tell me” or “Don’t know” were considered to
+represent people not attending to the manipulation and, as such,
+were deleted from further analysis. Responses from 53 people in
+the experimental condition were deleted through these manipula-
+tion checks. To further ensure data validity we deleted any partic-
+ipant in either condition who completed the survey in less than 8
+min (the quickest time that a nonblind research assistant could
+complete the control condition). Eighteen participants in the ex-
+perimental condition and 24 participants in the control condition
+were deemed to have completed the survey so quickly that they
+could not have participated properly in the study. Thus, 412
+participants remained in the study; 240 in the control condition and
+172 in the experimental condition.
+
+To check that the people who did not participate were not
+different to those who did, we ran some checks. Those who
+completed the manipulation in the experimental condition did not
+differ from those who did not complete the manipulation in age,
+t ⫽ .54, df ⫽ 249, p ⫽ .59 or education level (t ⫽ ⫺.25, df ⫽ 248,
+p ⫽ .80). However, there were differences in gender with those
+completing the manipulation being more likely to be female than
+male (t ⫽ 2.07, df ⫽ 249, p ⫽ .040); and differences in environ-
+mental values, with those completing the manipulation placing a
+higher value on the environment than those who did not (t ⫽ 2.69,
+df ⫽ 249, p ⫽ .002). However, when comparing those who
+completed the manipulation in the experimental condition to the
+participants in the control group, no significant differences were
+found on either gender, t ⫽ .04, df ⫽ 410, p ⫽ .97 or environ-
+mental values (t ⫽ ⫺1.39, df ⫽ 410, p ⫽ .17). Thus, these
+differences are unlikely to have affected the results. Among the
+remaining participants, the vast majority of open-ended responses
+to the self-concordance intervention were focused on environmen-
+tally sustainable energy behaviors therefore we focused on this as
+the key environmental domain for this study.
+
+Measures
+
+Sustainable energy use intentions. To measure intentions to
+engage in sustainable energy behaviors, we created a scale based
+on four items from a CSIRO measure of pro-environmental be-
+havior (Leviston & Walker, 2011; Leviston, Walker, & Morwin-
+ski, 2013). The original scale consists of 11 items covering a wide
+range of environmentally sustainable behaviors. Participants indi-
+cated the extent to which they intend to perform these behaviors in
+the next few weeks and months and responded on a 5-point scale
+from 1 (not at all) to 5 (a great deal). We calculated the mean
+score across the following four items that focused on sustainable
+energy behaviors: (a) “Use or switch to appliances that are envi-
+ronmentally-friendly;” (b) “Reduce the amount of gas and/or elec-
+tricity I use around the house;” (c) “Turn lights off around the
+house;” and (d) “Continue to have or switch to Green Power
+Electricity.” The internal reliability of the 4-item scale in this
+sample was adequate (␣ ⫽ .73).
+
+Self-concordance. Our measure of self-concordance was the
+
+same as that for Study 1.
+
+Control variables. The demographic characteristics of age,
+gender, education level, and political orientation were again mea-
+sured. As in Study 1, political orientation was dichotomized into
+“left-wing-oriented” (Labor Party, Greens Party) and “right-wing-
+oriented” (Liberal Party, Nationals Party); again Independents
+were not included in the analysis as they tend to support single-
+issue candidates rather than being ideologically driven. Also,
+rather than measuring lower-level environmental goals or specific
+attitudes, we decided to control for environmental values at its
+broadest, and thus most widely influential,
+level; participants
+therefore rated the importance of “protecting the environment” to
+them on a scale from 1 (not at all important) to 5 (very important).
+Finally, to control for social desirability we used the self-deception
+subscale from the Environmental Social Desirability Scale (Ewert
+& Galloway, 2009). This subscale contains six items (e.g., “I know
+what actions I should take regarding how best to protect the
+environment”) rated on a 4-point scale from 1 (does not describe
+me at all) to 4 (describes me very well). The scale demonstrated a
+good internal reliability (␣ ⫽ .74).
+
+Results
+
+To check that the self-concordance manipulation was affecting
+a variety of goals, and not simply environmental goals, we exam-
+ined the data in two ways. First, when looking at the open-ended
+responses generated by the self-concordance manipulation, we
+found that the majority of responses were oriented toward financial
+goals (51 responses), with climate change or environmental goals
+being the other big set of goals related to energy behavior (37
+responses).1 Interestingly, although many people discussed finan-
+cial goals, these were not always strictly egoistic with many people
+talking about using money for other reasons, for example, “Saving
+money so I can spoil my kids.” Furthermore, although many
+participants combined nonenvironmental goals with environmental
+goals (e.g., “Saves me money plus doing my bit to protect the
+environment”), others saw a difference between these (e.g., “I
+think any of the above methods would be beneficial to you, either
+health or financial wise, but as to the climate changing factors, I
+am not convinced that it is a major problem”).
+
+Second, we compared the strength of connections between en-
+vironmentally sustainable energy use and each specific goal across
+experimental and control groups. As shown in Table 3, the ma-
+nipulation acted as expected and had broad effects: There were
+significant differences not only for the connection between sus-
+tainable energy use and environmentally related goals (helping the
+environment, climate change, looking after our children’s future)
+but also between sustainable energy use and nonenvironmentally
+related goals (financial goals, having an easy life, being a good
+citizen and activism). Thus, we feel confident
+the self-
+concordance manipulation is not simply tapping into the connec-
+
+that
+
+1 Not everybody referred to their goal in their response and often just
+discussed what they would do rather than how it would help their goals. On
+the other hand, some people reported as many as three goals that their
+actions would help to achieve. As such, the numbers reported here do not
+add up to the total number of responses and are indicative rather than
+inferential.
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+96
+
+UNSWORTH AND MCNEILL
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Table 3
+Breadth of Self-Concordance Manipulation in Study 2
+
+How helpful is reducing your energy use to
+
+. . .
+
+Experimental/control
+
+group differences
+
+Environmental goals
+
+Protecting the environment
+Frugality
+Looking after our children’s future
+Reducing the effects of climate change
+
+Nonenvironmental goals
+
+Financial goals
+Participating in changing the world
+Not standing out from the crowd
+Being helpful to others
+Having a relatively easy or convenient life
+Fulfilling requirements, obligations or
+
+regulations
+
+Being a good citizen or good neighbor
+
+t ⫽ ⫺2.94, p ⫽ .003
+t ⫽ ⫺1.08, p ⫽ .28
+t ⫽ ⫺3.89, p ⬍ .001
+t ⫽ ⫺2.52, p ⫽ .01
+
+t ⫽ ⫺2.16, p ⫽ .03
+t ⫽ ⫺2.99, p ⫽ .003
+t ⫽ ⫺.67, p ⫽ .50
+t ⫽ ⫺1.59, p ⫽ .41
+t ⫽ ⫺2.94, p ⫽ .004
+
+t ⫽ ⫺1.22, p ⫽ .22
+t ⫽ ⫺2.04, p ⫽ .04
+
+tion between the environmentally sustainable use of energy and
+participants’ environmental goals.
+
+Table 4 outlines the means, standard deviations, and correlations
+between the variables studied. A t test comparing intentions to
+engage in environmentally sustainable energy behaviors across the
+experimental and control conditions was significant (t ⫽ 2.32,
+df ⫽ 410, p ⫽ .021) with means in the self-concordance condition
+(M ⫽ 3.46, SD ⫽ .97) being higher than those in the control
+condition (M ⫽ 3.23, SD ⫽ 1.03). Furthermore, a t test comparing
+self-concordance across the experimental and control conditions
+was also significant (t ⫽ 2.01, df ⫽ 410, p ⫽ .045); again, the
+⫽ 262.34, SD ⫽
+means were in the expected direction (Mexpt
+⫽ 247.17, SD ⫽ 77.84). The effect sizes, as measured
+72.57; Mcon
+by Cohen’s d, were d ⫽ .23 and .20, respectively, which is similar
+to Study 1.
+
+We next tested a regression model to examine the unique role
+that self-concordance of environmentally sustainable use of energy
+played in accounting for variance in intentions to engage in envi-
+ronmentally sustainable energy behaviors. Even after controlling
+for age, gender, education level, political orientation, social desir-
+ability, and environmental values, self-concordance still accounted
+for a significant amount of variance in intentions to engage in
+environmentally sustainable energy behaviors (see Table 5). Ro-
+bustness checks with various combinations of control variables
+indicated consistent effects for self-concordance (with no control
+variables, B ⫽ .01, SE ⫽ .001, p ⬍ .001; with demographic
+variables only, B ⫽ .01, SE ⫽ .001, p ⬍ .001; with environmental
+values and social desirability only, B ⫽ .01, SE ⫽ .001, p ⬍ .001),
+thus supporting Hypothesis 2a.
+
+Finally, to test our specific hypothesized mediation from Hy-
+pothesis 2b we used the bootstrapping procedures outlined by
+Preacher and Hayes (2004, 2008). Results of the analysis revealed
+that the self-concordance manipulation had a significant effect on
+self-concordance of environmentally sustainable use of energy
+(B ⫽ 15.17, SE ⫽ 7.56, p ⫽ .046), which in turn had a significant
+effect on intentions to engage in environmentally sustainable en-
+ergy behaviors (B ⫽ .01, SE ⬍ .01, p ⬍ .001). The total effect
+between the self-concordance manipulation and intentions to en-
+gage in environmentally sustainable energy behaviors was signif-
+icant (B ⫽ .23, SE ⫽ .10, p ⫽ .021) and the model accounted for
+
+37% of the variance in intentions to engage in environmentally
+sustainable energy behaviors. As expected, and supporting a full
+mediation hypothesis,
+the direct effect between the self-
+concordance manipulation and intentions to engage in environ-
+mentally sustainable energy behaviors was nonsignificant when
+self-concordance of environmentally sustainable use of energy was
+taken into account (B ⫽ .11, SE ⫽ .08, p ⫽ .17). Moreover, the
+bootstrap results for 5,000 iterations showed that the 95% bias-
+corrected CIs excluded zero (.03,
+indicating that self-
+concordance of sustainable use of energy mediated the effect of the
+manipulation on intentions to engage in environmentally sustain-
+able energy behaviors.
+
+.24)
+
+Study 3
+
+The first two studies showed support for the hypothesis that
+self-concordance of a particular environmentally sustainable be-
+havior is related to either performance of actions related to that
+behavior (shown in Study 1) or intentions to engage in that
+behavior (shown in Study 2). In addition, Study 2 found support
+for the idea that the connections between behaviors and goals are
+malleable, and that self-concordance can be increased by asking
+people to think about new connections. Finally, Study 2 demon-
+strated that changing self-concordance has a causal effect on
+behavioral
+test
+whether the self-concordance manipulation performs any better
+than a traditional climate change manipulation in which people are
+encouraged to think about how changing their behavior may help
+mitigate against climate change. Therefore, in Study 3, we com-
+pared a self-concordance manipulation with both a climate change
+manipulation and a control condition. We also used Study 3 to try
+and replicate the results of Study 2 in relation to a different
+environmentally sustainable behavior, namely commuting to work
+via public transport.
+
+intentions. Nevertheless,
+
+these studies did not
+
+Sample
+
+We used another accredited panel organization, Prolific Aca-
+demic, to source 300 full-time employed adult participants from
+the United Kingdom and United States who opted-in to complete
+the study for a small payment of GB£7.50 per hour (we pre-
+screened participants to remove any students from the potential
+sample). Data from seven out of 301 participants were removed
+from the dataset as these participants reported that they worked
+from home. Of the remaining 294 responses, 183 reported that they
+currently drove to work in a car, motorbike, or similar (the others
+walked, cycled, carpooled, or already took public transport). The
+majority of respondents chose not to report their gender or highest
+
+Table 4
+Study 2 Means, Standard Deviations, and Correlations
+
+Variable
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+1. Sustainable energy behavior
+2. Self-concordance
+3. Social desirability
+4. Environmental goal
+Note. N ⫽ 412.
+ⴱ p ⬍ .05.
+
+ⴱⴱ p ⬍ .01.
+
+13.30
+253.50
+2.59
+3.99
+
+4.03
+75.96
+.76
+.98
+
+.61ⴱⴱⴱ
+.15ⴱⴱ
+.48ⴱⴱⴱ
+
+.14ⴱⴱ
+.68ⴱⴱⴱ
+
+.10ⴱ
+
+ⴱⴱⴱ p ⬍ .001.
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+97
+
+Table 5
+Study 2 Regression of Self-Concordance and Control Variables on Sustainable Energy
+Behavior Intentions
+
+Variable
+
+Unstandardized
+
+regression coefficient
+
+Standard error
+
+Unstandardized
+
+regression coefficient
+
+Standard error
+
+Step 1
+
+Step 2
+
+Age
+Gender
+Education level
+Political orientation
+Social desirability
+Environmental goals
+Self-concordance
+
+.001
+.16
+⫺.02
+.08
+.14ⴱ
+.46ⴱⴱⴱ
+
+.001
+.10
+.04
+.10
+.07
+.05
+
+R2 ⫽ .25; F(6, 335) ⫽ 18.54, p ⬍ .001
+
+Note. N ⫽ 342.
+ⴱ p ⬍ .05.
+
+ⴱⴱⴱ p ⬍ .001.
+
+.001
+.07
+.04
+.11
+.07
+.11
+.01ⴱⴱⴱ
+
+.001
+.09
+.04
+.09
+.06
+.06
+.001
+
+R2 ⫽ .39; F(7, 334) ⫽ 30.51, p ⬍ .001
+
+level of education, but of the 47% who did, there were roughly
+equal numbers of men and women participating (57% men) with a
+range of educational levels from high school (16%) or vocational
+qualification (13%) through to a Bachelors (56%), Masters (14%)
+or PhD (1%) degree.
+
+Method
+
+All participants were shown the following scenario:
+
+Imagine your company has decided to remove the majority of its car
+parking spaces to build another building for offices. To ensure you’ll
+still be able to get to work, they will heavily subsidize your costs on
+public transport.
+
+Participants were then randomly assigned to the self-concordance,
+the climate change or the control condition. Similar to Study 2, the
+self-concordance condition first identified a range of potential
+connections between the target behavior and different goals to give
+participants some ideas and then asked them to think about such
+connections in a personalized manner. In particular, it said,
+
+The company would like to explain their thinking to you and to
+understand what is important to you about commuting and public
+transport. Of course, there are disadvantages to catching the bus or
+train, but the company believes that commuting to work by public
+transport has a number of advantages:
+(cid:129) You can save money because you no longer have to pay for as much
+insurance or car maintenance (and they will be subsidizing the costs
+of the public transport).
+
+(cid:129) You could use that time for leisure activities such as reading or
+
+listening to a book.
+
+(cid:129) You could use that time to catch up (or get ahead) on work if you
+
+wanted to.
+
+(cid:129) It is better for the environment.
+(cid:129) You will get more exercise and be healthier as you walk to the bus
+
+stop.
+
+(cid:129) You will be reducing the number of cars on the road so you’ll be
+
+helping others.
+
+(cid:129) Everybody is the same on the bus or train and there are no status
+
+differences so you’ll be reducing perceptual inequality.
+
+Of these, which advantages are most relevant to you personally? And
+are there other reasons why commuting via public transport would be
+helpful to you? As a reminder, the value that was important to you was
+
+[text piped in here responding to their highest ranked value] and the
+goals that were very important to you were [text piped in here
+responding to their highest rated goals] so you might want to think
+about how commuting via public transport affects those goals. In the
+box below, please write down how coming to work by public transport
+(e.g., bus, train, tram) will help you to achieve your personal goals and
+values.
+
+The climate change condition was very similar but focused
+specifically on how commuting via public transport could help
+deal with climate change:
+
+The company would like to explain their thinking to you and to
+understand what is important to you about commuting and public
+transport. Of course, there are disadvantages to catching the bus or
+train, but the company believes that commuting to work by public
+transport has a number of advantages:
+(cid:129) Cars, trucks and SUVs account for approximately 2/3 of the carbon
+
+emissions that come from transportation.
+
+(cid:129) Using public transport will reduce carbon emissions from 32% (if
+you use a bus) to 75% (if you use heavy rail such as train or the
+underground).
+
+(cid:129) It is better for the environment.
+(cid:129) Greater use of public transport means that further housing and
+infrastructure development can be more compact, again leading to
+fewer carbon emissions.
+
+(cid:129) Public transport providers use energy conservation and technology
+
+to ensure operators have lower emissions.
+
+(cid:129) There will be fewer cars on the road, meaning that there will be
+fewer traffic jams - traffic jams are one of the largest causes of high
+rates of emissions.
+
+(cid:129) It will help mitigate against climate change.
+
+Of these, which do you think are most relevant to dealing with climate
+change? And are there other reasons why commuting via public
+transport would help deal with climate change? In the box below,
+please write down how coming to work by public transport (e.g., bus,
+train, tram) will help reduce climate change.
+
+Finally, the control condition asked for participants’ attitudes
+
+toward commuting by public transport:
+
+The company would like to understand what is important to you about
+commuting and public transport. In the box below, please write down
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+98
+
+UNSWORTH AND MCNEILL
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+your thoughts about coming to work by public transport (e.g., bus,
+train, tram).
+
+Responses from 19 people were removed as they did not par-
+ticipate in the experimental manipulations (e.g., writing “bus”
+instead of considering connections with personal goals and values,
+or writing “sdf” instead of considering connections with climate
+change mitigation). Of the remaining sample there were 49 people
+in the self-concordance condition, 60 in the climate change con-
+dition, and 65 in the control condition.
+
+Measures
+
+Commuting intentions. We measured commuting intentions
+by asking participants to what extent they agreed or disagreed with
+the following four items: “I am likely to take public transport to
+work”; “I am likely to take the company up on the offer of
+subsidized transport”; “I will find any other option I can take to
+avoid taking public transport” (reverse-scored); and “I am likely to
+start looking for other jobs and leave this company because of this”
+(reverse-scored). Responses were recorded on a 7-point scale from
+1 (strongly disagree) to 7 (strongly agree) and internal reliability
+was high (␣ ⫽ .84).
+
+Self-concordance. Our measure of self-concordance was
+again the same as that for Study 1 except that the target behavior
+now related to commuting rather than environmentally sustainable
+use of energy. Participants were asked “How helpful do you think
+that commuting by public transport is to achieving the following
+goals?”, followed by 13 goals. We included “Being successful” to
+the other 12 values and goals from the previous studies to more
+directly capture a work-related goal that might be relevant to the
+more work-related behavior of commuting.
+
+Control variables. We again controlled for environmental
+values and this construct was measured in the same way as in
+Study 2. In addition, given that commuting by public transport will
+have different levels of inconvenience for participants depending
+on where they live, and that this is likely to affect their attitudes
+toward taking public transport, we asked participants “How incon-
+venient would it be for you to travel to work by public transport
+(e.g., bus, train, tram)?” and they responded on a scale from 1 (not
+at all inconvenient) to 6 (very inconvenient).
+
+Results
+
+Similar to Study 2, we found that the goals that participants in
+the self-concordance condition connected to the target behavior
+ranged far beyond climate change and environmental goals. In
+fact, these goals were only discussed by seven participants in the
+self-concordance condition. Again similar to Study 2, the majority
+of responses referred to financial goals (24 responses). However
+the commuting behavior was also linked to a number of leisure
+(having an easy life) goals as well such as relaxing (seven re-
+sponses), reading (seven responses), and talking to other people
+(three responses).
+
+After controlling for environmental values, there were signifi-
+cant differences in the self-concordance of taking public transport
+across the three conditions, F(3, 170) ⫽ 3.31, p ⫽ .039; condition
+␩2 ⫽ .03; importantly self-concordance of taking public transport
+was significantly higher for those in the self-concordance condi-
+
+⫽ 202.72, SD ⫽ 6.95; Mcon
+
+⫽ 202.72,
+tion than for those in the climate change condition (MSC
+SD ⫽ 6.95; MCC
+⫽ 182.57, SD ⫽ 6.29; contrast ⫽ ⫺20.13, SE ⫽
+9.38, p ⫽ .033) and also significantly higher than for those in the
+⫽ 180.86,
+control condition (MSC
+SD ⫽ 6.04; contrast ⫽ ⫺21.86, SE ⫽ 9.20, p ⫽ .019). Also as
+hypothesized, there were significant differences in public transport
+intentions across the three conditions, F(3, 170) ⫽ 4.02, p ⫽ .020;
+condition ␩2 ⫽ .04. As with self-concordance, the average inten-
+tion to take public transport was significantly higher in the self-
+⫽ 4.49, SD ⫽ .22) than in the climate
+concordance condition (MSC
+⫽ 3.92, SD ⫽ .20; contrast ⫽ ⫺.58, SE ⫽
+change condition (MCC
+.30, p ⫽ .056) and the control condition (MCon
+⫽ 3.67, SD ⫽ .19;
+contrast ⫽ ⫺.82, SE ⫽ .29, p ⫽ .006). To examine the robustness
+of our analysis, we also ran it without including environmental
+values as a control variable. We found similar overall results,
+however the contrasts between the self-concordance and climate
+change conditions were not significant for either self-concordance
+⫽ 186.07, SD ⫽ 7.44; con-
+(MSC
+trast ⫽ ⫺15.48, SE ⫽ 11.10, p ⫽ .16) or public transport inten-
+⫽ 3.95, SD ⫽ .21; con-
+tions (MSC
+trast ⫽ ⫺.53, SE ⫽ .31, p ⫽ .088). Upon examining this further,
+we found that the means remained roughly the same but there was
+an increase in the amount of error variance within the groups thus
+decreasing the overall significance level. Thus, given the relatively
+small sample sizes and the theoretical identification of environ-
+mental values as an extraneous variable, we do not believe this
+puts the validity of our results into question.
+
+⫽ 201.55, SD ⫽ 8.24; MCC
+
+⫽ 4.48, SD ⫽ .23; MCC
+
+In sum, the results across the three studies demonstrated support
+for our hypotheses. A combination of telling and asking people to
+consider how an environmentally sustainable behavior helped
+them to achieve their own important goals led to an increase in the
+behavior’s self-concordance, which led to a subsequent increase in
+intentions to engage in that behavior.
+
+General Discussion
+
+A great deal of research investigating environmentally sustain-
+able behaviors, both inside and outside organizations, has looked
+at influencing these behaviors by changing people’s environmental
+attitudes, beliefs, identities, or values. However, some people are
+not susceptible to such an approach, especially those who have
+goals or mental models that do not include or are in conflict with
+the proposed environmental ones and those who work in organi-
+zations which place a low priority on the environment. We there-
+fore set out to test an alternative route to influencing environmen-
+tally sustainable behaviors. The results of a temporally lagged
+study and two experiments suggest that self-concordance of a
+sustainable behavior predicts the performance of, or intentions to
+perform, that behavior over and above higher-order environmental
+goals such as ideology and environmental values. In addition,
+results from the two experiments suggest that self-concordance of
+a behavior can be influenced by asking people to consider how
+the behavior can help them to achieve their personal goals. In the
+case of environmentally sustainable behaviors, this works even if
+these goals are not related to the environment. This research
+therefore contributes to our knowledge of self-concordance, as
+well as producing promising results for the practical application
+of a new strategy to increase people’s intentions to perform
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+99
+
+environmentally sustainable behaviors, regardless of whether or
+not they personally hold environmental values and goals.
+
+In the literature to date, self-concordance has already been
+related to other behaviors. However, the majority of these behav-
+iors had been ones that have clear personal benefits such as
+work-related performance (e.g., Bono & Judge, 2003; Molina et
+al., 2013) or preparing and planning for high-risk natural hazards
+(McNeill et al., 2015). Our research shows that self-concordance is
+still a strong motivational factor even for behaviors that are usually
+on the periphery of an individual’s self-serving goals, such as
+environmentally sustainable behaviors.
+
+In addition, we have added to the literature on self-concordance
+by testing both its malleability and the causality of its effects on
+behavior. To our knowledge, all previous tests of self-concordance
+have used static, correlational analyses. We used experimental
+methodology with randomly assigned groups and found that
+changing the self-concordance of environmentally sustainable be-
+haviors had a greater effect on behavioral intentions than changing
+people’s perceptions of how helpful a behavior is in mitigating
+climate change. We believe that these results provide strong sup-
+port for the use of interventions that influence behavior by chang-
+ing the behavior’s self-concordance.
+
+sustainability,
+
+Related to this, our studies provide a theoretical explanation for
+previous research which has influenced environmentally sustain-
+able behaviors through manipulations, the effectiveness of which
+could potentially be explained by an increase in self-concordance
+(Bain et al., 2012; Myers et al., 2012). Importantly though, previ-
+ous research has often identified specific goals (e.g., public health,
+environmental
+self-determination theory-related
+goals) to connect the target behavior to, which limits the effec-
+tiveness of the intervention to those who value those particular
+goals (e.g., if people do not hold a public health goal then the
+intervention will be ineffective). Our self-concordance manipula-
+tion, on the other hand, shows that self-concordance and behavior
+can be influenced by letting people weight their own higher-order
+goals and by letting them choose which ones they link the sus-
+tainable behavior to, instead of dictating to them the goals which
+“should” be relevant to them. This allows for a greater effect
+across different individuals, because it eliminates the need for
+them to place value on any particular, culturally determined goal.
+Within the environmental sustainability and corporate social
+responsibility literatures we have thus opened up a new theoretical
+arena for examining psychosocial determinants. Rather than trying
+to change people’s climate change beliefs or goals about the
+environment, or trying to convince organizations to make environ-
+mentally sustainable behaviors mandatory, our research suggests
+that more personally relevant motives can be used. Our research
+controlled for environmental goals, using both correlational and
+experimental methods, therefore we are relatively confident that
+this more individually flexible approach is creating motivation
+independently of an individual’s environmental values.
+
+This research can benefit anyone who is trying to increase
+environmentally sustainable behaviors, from policymakers to en-
+vironmental activists to employers trying to increase sustainable
+behavior within their company. Our results suggest that this may
+be achieved by developing campaigns that give people examples
+of how environmentally sustainable energy use or commuting may
+serve a variety of commonly held nonenvironmental goals, and by
+letting people consider ways in which the environmentally sus-
+
+tainable behaviors will benefit their own personal goals. For ex-
+ample, organizations that are trying to motivate their employees to
+adopt more environmentally sustainable behaviors could do so by
+letting employees link the target behaviors to common nonenvi-
+ronmental workplace goals such as “being a good employee,”
+“being a good colleague,” “getting a promotion,” “increasing my
+skills,” and so forth.
+
+Importantly, our research shows that promise for the use of such
+interventions in organizations that hold mixed motives in relation
+to the environment. More specifically, the fictional organization
+we used in Study 3 clearly displayed mixed motives by demolish-
+ing the parking lot to make way for new office buildings (which
+would increase carbon emissions) but providing financial offsets to
+employees to take public transport (thereby reducing carbon emis-
+sions). We believe that such mixed motives in relation to the
+environment are common in organizations as environmental con-
+siderations usually have a lower priority than growth or profit.
+Using environmental values and goals to motivate employees in
+these situations is likely to backfire out of perceived incongruence
+with the organization’s actions (cf. Aguinis & Glavas, 2013). We
+showed in our studies that the self-concordance approach is effec-
+tive in these situations and might, therefore, be especially fruitful
+for organizations that are not known to hold strong environmental
+values, or that are tied to an industry that seemingly contradicts
+them (e.g., oil companies).
+
+Limitations and Directions for Future Research
+
+Of course, our research is not without limitations. First, we
+found relatively small to medium effect sizes. We do not believe
+that this is a reason to forego research in this area, though. This is
+because our studies were somewhat conservative in their ability to
+detect this relationship. To begin, the first study had petition
+behavior as the behavioral measure of environmentally sustainable
+use of energy. This behavior may be seen by some as an activist
+behavior as well as an environmentally sustainable energy behav-
+ior; thus, our measure of self-concordance, which focused only on
+sustainable energy behaviors, might be capturing only part of the
+person’s self-concordance of signing the renewable energy peti-
+tion, and thus part of
+the true relationship between self-
+concordance of the behavior and performance of the behavior.
+Similarly, in our second study, we aimed to increase the self-
+concordance of environmentally sustainable energy behaviors by
+encouraging participants to increase the self-concordance of a
+wider range of environmentally sustainable behaviors. The finding
+that the vast majority of participants focused on environmentally
+sustainable energy behaviors was thus beneficial, but somewhat
+unexpected. A possible explanation for this is that many partici-
+pants might have found it easier to connect environmentally sus-
+tainable energy behaviors to a variety of nonenvironmental goals
+as compared to other sustainable behaviors. Still, it is possible that
+a singular focus on environmentally sustainable energy behaviors
+in the intervention would have resulted in an even stronger self-
+concordance, and therefore a stronger effect than the broader
+approach used in our studies. Our focus on commuting in the third
+study was conservative given that many people deeply dislike or
+find it inconvenient to use public transport and the fact that we
+found even small effects is testament to the usefulness of the
+self-concordance approach.
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+100
+
+UNSWORTH AND MCNEILL
+
+Second, although manipulating self-concordance should form
+an effective alternative to the use of environmental-goal-focused
+techniques when targeting climate change deniers and those who
+lack environmental goals, our samples were aimed at the general
+population and did not specifically focus on these subgroups; thus,
+future research would need to test the effectiveness of this strategy
+for these groups in particular. However, we did control for envi-
+ronmental goals in our analysis, so the effectiveness of the manip-
+ulation is apparent even after the variance attributed to people’s
+environmental goals is accounted for. In addition, results from the
+third study showed that our self-concordance manipulation was
+more effective in increasing behavioral intentions than a more
+traditional climate change related manipulation in a sample con-
+taining many people who hold environmental goals. This suggests
+that manipulating self-concordance should be considered as an
+alternative to the use of environmental-goal-focused techniques
+even when the target audience does hold environmental goals.
+
+Third, the effects in the experimental studies pertain to inten-
+tions to perform environmentally sustainable behaviors rather than
+the actual performance of sustainable behaviors. Although re-
+search has shown a consistent positive relationship between inten-
+tions and behaviors even with observed (nonself-reported) behav-
+ior and experimental studies (Armitage & Conner, 2001; Webb &
+Sheeran, 2006), this relationship is not perfect, and effects on
+actual behavior tend to be smaller than on intentions. However, our
+first temporally lagged study showed a positive relationship be-
+tween self-concordance and a behavioral measure. In addition,
+research has identified several strategies that may help close the
+gap between intentions and behavior, such as the use of action
+plans, referring to a process in which people think about when and
+where they will carry out their intended behavior (cf. implemen-
+tation intentions; Gollwitzer & Sheeran, 2006; Sniehotta, Scholz,
+& Schwarzer, 2005; Ziegelmann, Luszczynska, Lippke, &
+Schwarzer, 2007). Future research could thus test whether manip-
+ulating self-concordance leads to actual behavioral outcomes, and
+it could focus on combining an increase in self-concordance with
+the formation of action plans, in order to more effectively influ-
+ence behavior.
+
+Fourth, the demands of the experimental and survey setting
+meant that we needed to predetermine a range of values and goals
+from which participants could choose and rate their most impor-
+tant. Moreover, to capture self-concordance, we needed to ask
+participants to rate the helpfulness against all of these goals. Thus,
+we were limited in the number of higher-order goals that we could
+use before inducing fatigue in the participants. To try and capture
+as many people’s possible goals as we could, we used the values
+from the widely used Schwartz theory (Schwartz, 1992; S. H.
+Schwartz, 1994) as well as the range of goals highlighted in
+environmental research (De Young, 2000; Stern & Dietz, 1994).
+Nonetheless, it would be good to validate this work with a study
+that uses an open-ended approach to identifying goals rather than
+the closed questions we used.
+
+Finally, based on the current findings it remains unclear whether
+the effect was driven by the formation of new connections between
+environmentally sustainable behaviors and personal goals, or
+whether it can be explained by bringing existing connections
+between the behavior and personal goals into conscious awareness,
+or a combination of the two. As a result, it is unclear whether the
+effects would hold over time, without repeatedly asking people to
+
+form these connections. However, research from other domains
+has shown that building connections between a behavioral goal
+and higher-order goal will have lasting effects on the motivation to
+perform the behavior, even after the connection between the be-
+havior and higher-order goal no longer exist in reality (Carr &
+Walton, 2014). This thus shows promise for the idea that the
+effects of the tested strategy on intentions to perform environmen-
+tally sustainable behaviors could hold over time, without the need
+for repeated reminders.
+
+Conclusions
+
+This research has provided important initial support for a new
+way to increase sustainable energy behaviors and commuting
+behaviors that eliminates the need for people to hold pro-
+environmental goals or attitudes. It suggests that motivation to
+perform environmentally sustainable behaviors can be increased
+by letting people connect these behaviors to higher-order goals of
+their own personal choice.
+
+In sum, we have identified a nonenvironmental pathway through
+which we can increase environmentally sustainable behaviors. We
+are definitely not suggesting that we should give up on environ-
+mental values altogether. However we do believe that our self-
+concordance based approach can provide an effective alternative to
+increase environmentally sustainable behaviors and might be an
+especially useful approach to increase such behaviors among those
+who otherwise would not consider it at all. Addressing and adapt-
+ing to climate change requires that everyone engage in sustainable
+behaviors in both the home and the workplace. We have shown
+that linking these behaviors to a person’s goals, regardless of
+whether or not they are environmental goals, will go some way to
+meeting this challenge.
+
+References
+
+Adriasola, E., Steele, A., Day, D. V., & Unsworth, K. L. (2011). Leader
+identity: Using goal hierarchy self-concordance to understand leader
+emergence. Paper presented at the 26th Annual SIOP Conference, Chi-
+cago, IL.
+
+Adriasola, E., & Unsworth, K. L. (2011). Leadership’s effect on motiva-
+tion: The effect of self-concordance and goal hierarchy. Paper presented
+at the Industrial and Organisational Psychology Conference, Brisbane,
+Australia.
+
+Adriasola, E., Unsworth, K. L., & Day, D. V. (2012). Goal self-
+concordance: Understanding its effects through a new conceptualisation
+and task differentiation. Paper presented at the Academy of Management
+Conference, Boston, MA.
+
+Aguilera, R. V., Rupp, D. E., Williams, C. A., & Ganapathi, J. (2007).
+Putting the S back in corporate social responsibility: A multilevel theory
+of social change in organizations. The Academy of Management Review,
+32, 836 – 863. http://dx.doi.org/10.5465/AMR.2007.25275678
+
+Aguinis, H., & Glavas, A. (2012). What we know and don’t know about
+corporate social responsibility a review and research agenda. Journal of
+Management, 38, 932–968. http://dx.doi.org/10.1177/014920631
+1436079
+
+Aguinis, H., & Glavas, A. (2013). Embedded versus peripheral corporate
+social responsibility: Psychological foundations. Industrial and Organi-
+zational Psychology: Perspectives on Science and Practice, 6, 314 –332.
+http://dx.doi.org/10.1111/iops.12059
+
+Andersson, L., & Bateman, T. (2000). Individual environmental initiative:
+Championing natural environmental issues in U.S. business organiza-
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+101
+
+tions. Academy of Management Journal, 43, 548 –570. http://dx.doi.org/
+10.2307/1556355
+
+Andersson, L., Jackson, S. E., & Russell, S. V. (2013). Greening organi-
+zational behavior: An introduction to the special
+issue. Journal of
+Organizational Behavior, 34, 151–155. http://dx.doi.org/10.1002/job
+.1854
+
+Andersson, L., Shivarajan, S., & Blau, G. (2005). Enacting ecological
+sustainability in the MNC: A test of an adapted value-belief-norm
+framework. Journal of Business Ethics, 59, 295–305. http://dx.doi.org/
+10.1007/s10551-005-3440-x
+
+Armitage, C. J., & Conner, M. (2001). Efficacy of the theory of planned
+behaviour: A meta-analytic review. British Journal of Social Psychol-
+ogy, 40, 471– 499. http://dx.doi.org/10.1348/014466601164939
+
+Austin, J. T., & Vancouver, J. B. (1996). Goal constructs in psychology:
+Structure, process and content. Psychological Bulletin, 120, 338 –375.
+http://dx.doi.org/10.1037/0033-2909.120.3.338
+
+Australian Bureau of Meteorology. (2013). Annual Australian climate
+
+statement 2012. Melbourne, Victoria, Australia: Author.
+
+Bain, P. G., Hornsey, M. J., Bongiorno, R., & Jeffries, C. (2012). Promot-
+ing pro-environmental action in climate change deniers. Nature: Climate
+Change, 2, 600 – 603.
+
+Bamberg, S., & Moser, G. (2007). Twenty years after Hines, Hungerford
+and Tomera: A new meta-analysis of psycho-social determinants of
+pro-environmental behavior. Journal of Environmental Psychology, 27,
+14 –25. http://dx.doi.org/10.1016/j.jenvp.2006.12.002
+
+Bansal, P., & Knox-Hayes, J. (2013). The time and space of materiality in
+organizations and the natural environment. Organization & Environ-
+ment, 26, 61– 82. http://dx.doi.org/10.1177/1086026612475069
+
+Barnett, J., Dovers, S., Hatfield-Dodds, S., McDonald, J., Nelson, R.,
+Waller, S., . . . Stock, D. (2011). National climate change adaptation
+research plan: Social, economic and institutional dimensions. Gold-
+coast, Queensland, Australia: National Climate Change Adaptation Re-
+search Facility.
+
+Berkhout, P. H. G., Muskens, J. C., & Velthuijsen, J. W. (2000). Defining
+the rebound effect. Energy Policy, 28, 425– 432. http://dx.doi.org/10
+.1016/S0301-4215(00)00022-7
+
+Black, J. S., Stern, P. C., & Elworth, J. T. (1985). Personal and contextual
+influences on household energy adaptations. Journal of Applied Psy-
+chology, 70, 3–21. http://dx.doi.org/10.1037/0021-9010.70.1.3
+
+Bolderdijk, J., Steg, L., & Postmes, T. (2013). Fostering support for work
+floor energy conservation policies: Accounting for privacy concerns.
+Journal of Organizational Behavior, 34, 195–210. http://dx.doi.org/10
+.1002/job.1831
+
+Bono, J. E., & Judge, T. A. (2003). Self-concordance at work: Toward
+understanding the motivational effects of transformational
+leaders.
+Academy of Management Journal, 46, 554 –571. http://dx.doi.org/10
+.2307/30040649
+
+Bord, R. J., O’Connor, R. E., & Fisher, A. (2000). In what sense does the
+public need to understand global climate change? Public Understanding
+of Science, 9, 205–218. http://dx.doi.org/10.1088/0963-6625/9/3/301
+
+Bratton, A., & Bratton, J. (2015). Green human-resource management. In
+J. Barling & J. L. Robertson (Eds.), The psychology of green organiza-
+tions (pp. 275–295). Oxford, UK: Oxford University Press. http://dx.doi
+.org/10.1093/acprof:oso/9780199997480.003.0012
+
+Carr, P. B., & Walton, G. M. (2014). Cues of working together fuel
+intrinsic motivation. Journal of Experimental Social Psychology, 53,
+169 –184. http://dx.doi.org/10.1016/j.jesp.2014.03.015
+
+Cialdini, R. B. (2003). Crafting normative messages to protect the envi-
+ronment. Current Directions in Psychological Science, 12, 105–109.
+http://dx.doi.org/10.1111/1467-8721.01242
+
+Clark, J. K., & Evans, A. T. (2014). Source credibility and persuasion: The
+role of message position in self-validation. Personality and Social Psy-
+chology Bulletin, 40, 1024 –1036. http://dx.doi.org/10.1177/01461
+67214534733
+
+Cronbach, L. J., & Gleser, G. C. (1953). Assessing similarity between
+profiles. Psychological Bulletin, 50, 456 – 473. http://dx.doi.org/10
+.1037/h0057173
+
+Cropanzano, R., James, K., & Citera, M. (1993). A goal hierarchy model
+of personality, motivation, and leadership. Research in Organizational
+Behavior, 15, 267–322.
+
+Davis, M. C., & Challenger, R. (2012). A socio-technical approach to
+sustainable intervention design. Paper presented at the Academy of
+Management Annual Meeting, Boston, MA.
+
+Davis, M. C., & Challenger, R. (2015). Environmentally sustainable work
+
+behavior (Vol. 11). Hoboken, NJ: John Wiley & Sons.
+
+Davis, M. C., & Coan, P. (2015). Organizational change. In J. Barling &
+J. L. Robertson (Eds.), The psychology of green organizations (pp.
+244 –276). Oxford, UK: Oxford University Press. http://dx.doi.org/10
+.1093/acprof:oso/9780199997480.003.0011
+
+Davis, M. C., Leach, D. J., & Clegg, C. W. (2011). The physical environ-
+ment of the office: Contemporary and emerging issues. International
+Review of Industrial and Organizational Psychology, 26, 193–237.
+
+Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-
+determination in human behavior. New York, NY: Plenum Press. http://
+dx.doi.org/10.1007/978-1-4899-2271-7
+
+Delmas, M. A., & Pekovic, S. (2013). Environmental standards and labor
+productivity: Understanding the mechanisms that sustain sustainability.
+Journal of Organizational Behavior, 34, 230 –252. http://dx.doi.org/10
+.1002/job.1827
+
+De Young, R. (2000). Expanding and evaluating motives for environmen-
+tally responsible behavior. Journal of Social Issues, 56, 509 –526. http://
+dx.doi.org/10.1111/0022-4537.00181
+
+Dono, J., Webb, J., & Richardson, B. (2010). The relationship between
+environmental activism, pro-environmental behavior and social identity.
+Journal of Environmental Psychology, 30, 178 –186. http://dx.doi.org/
+10.1016/j.jenvp.2009.11.006
+
+Ewert, A., & Galloway, G. (2009). Socially desirable responding in an
+environmental context: Development of a domain specific scale. Envi-
+ronmental Education Research, 15, 55–70. http://dx.doi.org/10.1080/
+13504620802613504
+
+Fielding, K. S., McDonald, R., & Louis, W. R. (2008). Theory of planned
+behaviour, identity and intentions to engage in environmental activism.
+Journal of Environmental Psychology, 28, 318 –326. http://dx.doi.org/
+10.1016/j.jenvp.2008.03.003
+
+Fielding, K. S., Terry, D. J., Masser, B. M., & Hogg, M. A. (2008).
+Integrating social identity theory and the theory of planned behaviour to
+explain decisions to engage in sustainable agricultural practices. British
+Journal of Social Psychology, 47, 23– 48. http://dx.doi.org/10.1348/
+014466607X206792
+
+Gifford, R. (2011). The dragons of inaction: Psychological barriers that
+limit climate change mitigation and adaptation. American Psychologist,
+66, 290 –302. http://dx.doi.org/10.1037/a0023566
+
+Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and
+goal achievement: A meta-analysis of effects and processes. Advances in
+Experimental Social Psychology, 38, 69 –119. http://dx.doi.org/10.1016/
+S0065-2601(06)38002-1
+
+Graves, L. M., Sarkis, J., & Zhu, Q. (2013). How transformational lead-
+ership and employee motivation combine to predict employee proenvi-
+ronmental behaviors in China. Journal of Environmental Psychology,
+35, 81–91. http://dx.doi.org/10.1016/j.jenvp.2013.05.002
+
+Greenhill, M., Leviston, Z., Leonard, R., & Walker, I. (2014). Assessing
+climate change beliefs: Response effects of question wording and re-
+sponse alternatives. Public Understanding of Science, 23, 947–965.
+http://dx.doi.org/10.1177/0963662513480117
+
+Greening, L. A., Greene, D. L., & Difiglio, C. (2000). Energy efficiency
+and consumption—the rebound effect—a survey. Energy Policy, 28,
+389 – 401. http://dx.doi.org/10.1016/S0301-4215(00)00021-5
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+102
+
+UNSWORTH AND MCNEILL
+
+Greguras, G. J., & Diefendorff, J. M. (2010). Why does proactive person-
+ality predict employee life satisfaction and work behaviors? A field
+investigation of the mediating role of the self-concordance model. Per-
+sonnel Psychology, 63, 539 –560. http://dx.doi.org/10.1111/j.1744-6570
+.2010.01180.x
+
+Han, Q., Nieuwenhijsen, I., de Vries, B., Blokhuis, E., & Schaefer, W.
+(2013). Intervention strategy to stimulate energy-saving behavior of
+local residents. Energy Policy, 52, 706 –715. http://dx.doi.org/10.1016/
+j.enpol.2012.10.031
+
+Hanges, P. J., Lord, R. G., & Dickson, M. W. (2000). An information-
+processing perspective on leadership and culture: A case for connection-
+ist architecture. Applied Psychology: An International Review, 49, 133–
+161. http://dx.doi.org/10.1111/1464-0597.00008
+
+Hart, W., Albarracín, D., Eagly, A. H., Brechan, I., Lindberg, M. J., &
+Merrill, L. (2009). Feeling validated versus being correct: A meta-
+analysis of selective exposure to information. Psychological Bulletin,
+135, 555–588. http://dx.doi.org/10.1037/a0015701
+
+Heath, Y., & Gifford, R. (2006). Free-market ideology and environmental
+degradation: The case of beliefs in global climate change. Environment
+and Behavior, 38, 48 –71. http://dx.doi.org/10.1177/0013916505277998
+Ipsos MORI. (2014). Global Trends 2014. Retrieved on August 11, 2016,
+
+from http://www.ipsosglobaltrends.com/environment.html
+
+Jackson, S. E., Ones, D. S., & Dilchert, S. (2012). Managing human
+resources for environmental sustainability (Vol. 32). Hoboken, NJ:
+Wiley.
+
+Kim, A., Kim, Y., Han, K., Jackson, S. E., & Ployhart, R. E. (2014).
+Multilevel influences on voluntary workplace green behavior individual
+differences, leader behavior, and coworker advocacy. Journal of Man-
+agement. http://dx.doi.org/10.1177/0149206314547386
+
+Kruglanski, A. W., Köpetz, C., Bélanger, J. J., Chun, W. Y., Orehek, E., &
+Fishbach, A. (2013). Features of multifinality. Personality and Social
+Psychology Review, 17, 22–39. http://dx.doi.org/10.1177/1088868
+312453087
+
+Kruglanski, A. W., Shah, J. Y., Fishbach, A., Friedman, R., Chun, W. Y.,
+& Sleeth-Keppler, D. (2002). A theory of goal systems. Advances in
+Experimental Social Psychology, 34, 331–378. http://dx.doi.org/10
+.1016/S0065-2601(02)80008-9
+
+Leiserowitz, A., Maibach, E. W., & Roser-Renouf, C. (2009). Climate
+change in the American mind: Americans’ climate change beliefs, atti-
+tudes, policy preferences, and actions. SSRN Electronic Journal. http://
+dx.doi.org/10.2139/ssrn.2667029
+
+Leviston, Z., & Walker, I. (2011). Second annual survey of Australian
+attitudes to climate change: Interim report social and behaviour sci-
+ences research group. Perth, Western Australia, Australia: Australian
+Commonwealth Scientific and Industrial Research Organization.
+
+Leviston, Z., & Walker, I. (2012). Beliefs and denials about climate
+change: An Australian perspective. Ecopsychology, 4, 277–285. http://
+dx.doi.org/10.1089/eco.2012.0051
+
+Leviston, Z., Walker, I., & Morwinski, S. (2013). Your opinion on climate
+change might not be as common as you think. Nature: Climate Change,
+3, 334 –337.
+
+Lewandowsky, S., Gignac, G. E., & Vaughan, S. (2013). The pivotal role
+of perceived scientific consensus in acceptance of science. Nature Cli-
+mate Change, 3, 399 – 404. http://dx.doi.org/10.1038/nclimate1720
+
+Lord, R. G., & Brown, D. J. (2001). Leadership, values, and subordinate
+self-concepts. The Leadership Quarterly, 12, 133–152. http://dx.doi.org/
+10.1016/S1048-9843(01)00072-8
+
+Margetts, H., John, P., Escher, T., & Reissfelder, S. (2011). Social infor-
+mation and political participation on the internet: An experiment. Euro-
+pean Political Science Review, 3, 321–344. http://dx.doi.org/10.1017/
+S1755773911000129
+
+McNeill, I. M., Dunlop, P. D., Skinner, T. C., & Morrison, D. L. (2015).
+Predicting delay in residents’ decision on defending versus evacuating
+through antecedents of decision avoidance. International Journal of
+
+Wildland Fire, 24, 153–161. Retrieved from http://www.publish.csiro
+.au/?act⫽view_file&file_id⫽WF12213.pdf
+
+Midden, C. J. H., Meter, J. F., Weening, M. H., & Zieverink, H. J. A.
+(1983). Using feedback, reinforcement and information to reduce energy
+consumption in households: A field experiment. Journal of Economic
+Psychology, 3, 65– 86. http://dx.doi.org/10.1016/0167-4870(83)90058-2
+Molina, R., Unsworth, K. L., Hodkiewicz, M. R., & Adriasola, E. (2013).
+Are managerial pressure, technological control and intrinsic motivation
+effective in improving data quality? Reliability Engineering & System
+Safety, 119, 26 –34. http://dx.doi.org/10.1016/j.ress.2013.04.009
+
+Myers, T. A., Nisbet, M. C., Maibach, E. W., & Leiserowitz, A. A. (2012).
+A public health frame arouses hopeful emotions about climate change.
+Climatic Change, 113, 1105–1112. http://dx.doi.org/10.1007/s10584-
+012-0513-6
+
+Norton, T. A., Parker, S. L., Zacher, H., & Ashkanasy, N. M. (2015).
+Employee green behavior: A theoretical framework, multilevel review,
+and future research agenda. Organization & Environment, 28, 103–125.
+http://dx.doi.org/10.1177/1086026615575773
+
+Norton, T. A., Zacher, H., & Ashkanasy, N. M. (2012). On the importance
+of pro-environmental organizational climate for employee green behav-
+ior. Industrial and Organizational Psychology: Perspectives on Science
+and Practice, 5, 497–500. http://dx.doi.org/10.1111/j.1754-9434.2012
+.01487.x
+
+Norton, T. A., Zacher, H., & Ashkanasy, N. M. (2014). Organisational
+sustainability policies and employee green behaviour: The mediating
+role of work climate perceptions. Journal of Environmental Psychology,
+38, 49 –54. http://dx.doi.org/10.1016/j.jenvp.2013.12.008
+
+Osbaldiston, R., & Schott, J. P. (2012). Environmental sustainability and
+behavioral science: Meta-analysis of proenvironmental behavior exper-
+iments. Environment and Behavior, 44, 257–299. http://dx.doi.org/10
+.1177/0013916511402673
+
+Parry, M. L., Canziani, O. F., Palutikof, J. P., van der Linden, P. J., &
+Hanson, C. E. (Eds.). (2007). Climate change 2007: Impacts, adaptation
+and vulnerability. Contribution of Working Group II to the Fourth
+assessment report of the intergovernmental panel on climate change.
+Cambridge, UK: Cambridge Press.
+
+Pelletier, L. G., Tuson, K. M., Green-Demers, I., Noels, K., & Beaton,
+A. M. (1998). Why are you doing things for the environment? The
+Motivation Toward the Environment Scale (MTES) 1. Journal of Ap-
+plied Social Psychology, 28, 437– 468. http://dx.doi.org/10.1111/j.1559-
+1816.1998.tb01714.x
+
+Peterson, T. C., Hoerling, M. P., Stott, P. A., & Herring, S. C. (2013).
+Explaining extreme events of 2012 from a climate perspective. Bulletin
+of the American Meteorological Society, 94(Special Suppl.).
+
+Preacher, K. J., & Hayes, A. F. (2004). SPSS and SAS procedures for
+estimating indirect effects in simple mediation models. Behavior Re-
+search Methods, Instruments & Computers, 36, 717–731. http://dx.doi
+.org/10.3758/BF03206553
+
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling
+strategies for assessing and comparing indirect effects in multiple me-
+diator models. Behavior Research Methods, 40, 879 – 891. http://dx.doi
+.org/10.3758/BRM.40.3.879
+
+Rupp, D. E., Williams, C. A., & Aguilera, R. V. (2011). Managerial ethics:
+Managing the psychology of morality (pp. 69 – 88). New York, NY:
+Routledge.
+
+Schipper, L. J., & Grubb, M. (1998). On the rebound: Using energy
+indicators to measure the feedback between energy intensities and
+energy uses. Paper presented at the 1998 IAEE Quebec City Conference,
+Quebec, Canada.
+
+Schumann, S., & Klein, O. (2015). Substitute or stepping stone? Assessing
+the impact of low-threshold online collective actions on offline partici-
+pation. European Journal of Social Psychology, 45, 308 –322. http://dx
+.doi.org/10.1002/ejsp.2084
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+SELF-CONCORDANCE AND PRO-ENVIRONMENTAL BEHAVIORS
+
+103
+
+Schwartz, S. H. (1992). Universals in the content and structure of values:
+Theoretical advances and empirical tests in 20 countries. Advances in
+Experimental Social Psychology, 25, 1– 65. http://dx.doi.org/10.1016/
+S0065-2601(08)60281-6
+
+Schwartz, S. H. (1994). Are there universal aspects in the structure and
+contents of human values? Journal of Social Issues, 50, 19 – 45. http://
+dx.doi.org/10.1111/j.1540-4560.1994.tb01196.x
+
+Shah, J. Y., Friedman, R., & Kruglanski, A. W. (2002). Forgetting all else:
+On the antecedents and consequences of goal shielding. Journal of
+Personality and Social Psychology, 83, 1261–1280. http://dx.doi.org/10
+.1037/0022-3514.83.6.1261
+
+Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and
+longitudinal well-being: The self-concordance model. Journal of Per-
+sonality and Social Psychology, 76, 482– 497. http://dx.doi.org/10.1037/
+0022-3514.76.3.482
+
+Sheldon, K. M., & Emmons, R. A. (1995). Comparing differentiation and
+integration within personal goal systems. Personality and Individual Dif-
+ferences, 18, 39–46. http://dx.doi.org/10.1016/0191-8869(94)00131-B
+
+Sheldon, K. M., & Houser-Marko, L. (2001). Self-concordance, goal
+attainment, and the pursuit of happiness: Can there be an upward spiral?
+Journal of Personality and Social Psychology, 80, 152–165. http://dx
+.doi.org/10.1037/0022-3514.80.1.152
+
+Sheldon, K. M., & Kasser, T. (1995). Coherence and congruence: Two
+aspects of personality integration. Journal of Personality and Social
+Psychology, 68, 531–543. http://dx.doi.org/10.1037/0022-3514.68.3.531
+Slavin, R. E., Wodarski, J. S., & Blackburn, B. L. (1981). A group
+contingency for electricity conservation in master-metered apartments.
+Journal of Applied Behavior Analysis, 14, 357–363. http://dx.doi.org/10
+.1901/jaba.1981.14-357
+
+Sniehotta, F. F., Scholz, U., & Schwarzer, R. (2005). Bridging the
+intention– behaviour gap: Planning, self-efficacy, and action control in
+the adoption and maintenance of physical exercise. Psychology &
+Health, 20, 143–160. http://dx.doi.org/10.1002/ejsp.258
+
+Sparks, P., & Shepherd, R. (1992). Self-identity and the Theory of Planned
+Behavior: Assesing the role of identification with “green consumerism.”
+Social Psychology Quarterly, 55, 388 –399. http://dx.doi.org/10.2307/
+2786955
+
+Stern, P. C. (2000). Toward a coherent theory of environmentally signif-
+icant behavior. Journal of Social Issues, 56, 407– 424. http://dx.doi.org/
+10.1111/0022-4537.00175
+
+Stern, P. C. (2011). Contributions of psychology to limiting climate
+change. American Psychologist, 66, 303–314. http://dx.doi.org/10.1037/
+a0023235
+
+Stern, P. C., & Dietz, T. (1994). The value basis of environmental concern.
+Journal of Social Issues, 50, 65– 84. http://dx.doi.org/10.1111/j.1540-
+4560.1994.tb02420.x
+
+Stern, P. C., Dietz, T., & Guagnano, G. A. (1995). The new ecological
+paradigm in social psychological perspective. Environment and Behav-
+ior, 27, 723–743. http://dx.doi.org/10.1177/0013916595276001
+
+Strickland, A. A., Taber, C. S., & Lodge, M. (2011). Motivated reasoning
+and public opinion. Journal of Health Politics, Policy and Law, 36,
+935–944. http://dx.doi.org/10.1215/03616878-1460524
+
+Sussman, R., Greeno, M., Gifford, R., & Scannell, L. (2013). The effec-
+tiveness of models and prompts on waste diversion: A field experiment
+on composting by cafeteria patrons. Journal of Applied Social Psychol-
+ogy, 43, 24 –34. http://dx.doi.org/10.1111/j.1559-1816.2012.00978.x
+
+Thøgersen, J., & Moller, B. (2008). Breaking car use habits: The effec-
+tiveness of a free one-month travelcard. Transportation, 35, 329 –345.
+http://dx.doi.org/10.1007/s11116-008-9160-1
+
+Unsworth, K. L. (2015). Green me up Scotty: Psychological interventions
+to increase pro-environmental behaviours. In J. Barling & J. Robertson
+(Eds.), The psychology of green organizations (pp. 215–243). New
+York, NY: Oxford University Press. http://dx.doi.org/10.1093/acprof:
+oso/9780199997480.003.0010
+
+Unsworth, K. L., Adriasola, E., Johnston-Billings, A., Dmitrieva, A., &
+Hodkiewicz, M. R. (2011). Goal hierarchy: Improving asset data quality
+by improving motivation. Reliability Engineering & System Safety, 96,
+1474 –1481. http://dx.doi.org/10.1016/j.ress.2011.06.003
+
+Unsworth, K. L., Dmitrieva, A., & Adriasola, E. (2013). Changing behav-
+ior: Increasing the effectiveness of workplace interventions in creating
+pro-environmental behavior change. Journal of Organizational Behav-
+ior, 34, 211–229. http://dx.doi.org/10.1002/job.1837
+
+Unsworth, K. L., & Fielding, K. S. (2014). It’s political: How the salience
+of one’s political identity changes climate change beliefs and policy
+support. Global Environmental Change, 27, 131–137. http://dx.doi.org/
+10.1016/j.gloenvcha.2014.05.002
+
+Unsworth, K. L., Yeo, G., & Beck, J. W. (2014). Multiple goals: A review
+and derivation of general principles. Journal of Organizational Behav-
+ior, 35, 1064 –1078. http://dx.doi.org/10.1002/job.1963
+
+Walls, J. L., & Hoffman, A. J. (2013). Exceptional boards: Environmental
+experience and positive deviance from institutional norms. Journal of
+Organizational Behavior, 34, 253–271. http://dx.doi.org/10.1002/job
+.1813
+
+Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions
+engender behavior change? A meta-analysis of the experimental evi-
+dence. Psychological Bulletin, 132, 249 –268. http://dx.doi.org/10.1037/
+0033-2909.132.2.249
+
+Young, W., Davis, M. C., McNeill, I., Malhotra, B., Russell, S. V.,
+Unsworth, K. L., & Clegg, C. W. (2015). Changing behavior: Successful
+environmental programmes in the workplace. Business Strategy and the
+Environment, 24, 689 –703. http://dx.doi.org/10.1002/bse.1836
+
+Yue, T., Long, R., & Chen, H. (2013). Factors influencing energy-saving
+behavior of urban households in Jiangsu Province. Energy Policy, 62,
+665– 675. http://dx.doi.org/10.1016/j.enpol.2013.07.051
+
+Ziegelmann, J. P., Luszczynska, A., Lippke, S., & Schwarzer, R. (2007).
+Are goal intentions or implementation intentions better predictors of
+health behavior? A longitudinal study in orthopedic rehabilitation. Re-
+habilitation Psychology, 52, 97–102. http://dx.doi.org/10.1037/0090-
+5550.52.1.97
+
+Received February 20, 2015
+Revision received July 12, 2016
+
+Accepted July 22, 2016 䡲
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+
