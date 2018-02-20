@@ -1,5 +1,6 @@
 pyCMR
 __env.py
 *.pyc
+credentials
 
 proquest-pull/scientific/*
