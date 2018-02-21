@@ -1,43 +1,49 @@
 from six.moves import cPickle as pickle
-from nltk.tokenize import word_tokenize
-from nltk.probability import FreqDist
-import numpy as np
-from collections import OrderedDict
-from operator import itemgetter
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 
-vocab = {}
+tfidf_vectorizer = TfidfVectorizer(stop_words='english')
+count_vectorizer = CountVectorizer(stop_words='english')
+sci_vectorizer = CountVectorizer(stop_words='english')
+news_vectorizer = CountVectorizer(stop_words='english')
+sci2 = CountVectorizer(stop_words='english', max_features=100)
+news2 = CountVectorizer(stop_words='english', max_features=100)
+
 with open('news_corpus.pickle', 'rb') as pf:
-	articles = pickle.load(pf)
-fdist = FreqDist()
-for article in articles:
-	for word in word_tokenize(article):
-		fdist[word.lower()] += 1
-total_count = fdist.N()
-for word, count in fdist.items():
-	vocab[word] = [count / float(total_count), 0]
+    news_articles = pickle.load(pf)
 
 with open('scientific_corpus.pickle', 'rb') as pf:
-	articles = pickle.load(pf)
-fdist = FreqDist()
-for article in articles:
-	for word in word_tokenize(article):
-		fdist[word.lower()] += 1
-total_count = fdist.N()
-for word, count in fdist.items():
-	old_entry = vocab[word] if word in vocab.keys() else [0, 0]
-	old_entry[1] = count / float(total_count)
-	vocab[word] = old_entry
+    sci_articles = pickle.load(pf)
 
-def lam_fun(value):
-	return value[1][0] + value[1][1]
-sorted_words = sorted(vocab.items(), key=lam_fun, reverse=True)
-with open('counts.pickle', 'wb') as pf:
-	pickle.dump(sorted_words, pf)
+tfidf_vectorizer.fit(news_articles + sci_articles)
+cv_fit = count_vectorizer.fit_transform(news_articles + sci_articles)
+counts = cv_fit.toarray().sum(axis=0)
+sci_fit = sci_vectorizer.fit_transform(sci_articles)
+sci_counts = sci_fit.toarray().sum(axis=0)
+sci_total = sum(sci_counts)
+news_fit = news_vectorizer.fit_transform(news_articles)
+news_counts = news_fit.toarray().sum(axis=0)
+news_total = sum(news_counts)
 
-# x = []
-# y = []
-# for thing in new_thing:
-# 	x.append(thing[1][0])
-# 	y.append(thing[1][1])
-# plt.scatter(x, y, norm=True)
-# plt.show()
+sci2.fit(sci_articles)
+news2.fit(news_articles)
+
+idf = tfidf_vectorizer.idf_
+
+# Make CSV: word (label), total freq (size), rank (y), relative freq (x), sci. freq(detail), news freq(detail)
+import csv
+
+with open('tfidf_freqs.csv', 'w+', encoding='utf-8') as csvfile:
+    fieldnames = ['word', 'total freq', 'idf', 'relative freq', 'sci. freq', 'news freq']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for word in {**sci2.vocabulary_, **news2.vocabulary_}:
+        index = count_vectorizer.vocabulary_.get(word)
+        n_index = news_vectorizer.vocabulary_.get(word)
+        s_index = sci_vectorizer.vocabulary_.get(word)
+        s_freq = 0 if s_index is None else sci_counts[s_index] / float(sci_total)
+        n_freq = 0 if n_index is None else news_counts[n_index] / float(news_total)
+        relative_freq = (n_freq / (n_freq + s_freq))
+        total_freq = n_freq + s_freq
+        writer.writerow({'word': word, 'total freq': total_freq, 'idf': idf[index],
+                         'relative freq': relative_freq, 'sci. freq': s_freq, 'news freq': n_freq})
