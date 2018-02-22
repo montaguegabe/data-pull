@@ -4,3 +4,5 @@ We want to build a topic model from this API: [http://www.nature.com/developers/
 
 ## Dependencies
 
+- Requests library
+- `gabe_nature.json` credentials in the credentials directory

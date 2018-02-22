@@ -3,6 +3,7 @@ __env.py
 *.pyc
 credentials
 __pycache__
+data-*
 
 proquest-pull/scientific/*
 reddit-pull/account_info.txt
