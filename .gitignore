@@ -5,3 +5,5 @@ credentials
 __pycache__
 
 proquest-pull/scientific/*
+reddit-pull/account_info.txt
+*-checkpoint.ipynb
