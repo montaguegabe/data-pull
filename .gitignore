@@ -6,3 +6,9 @@ __pycache__
 data-*
 
 proquest-pull/scientific/*
+reddit-pull/account_info.txt
+*-checkpoint.ipynb
+*.bz2
+reddit-pull/decompressed.bin
+reddit-pull/raw_queries.csv
+reddit-pull/raw_submissions.txt
