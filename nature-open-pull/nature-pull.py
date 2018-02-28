@@ -60,7 +60,12 @@ while True:
         'startRecord': str(record_index),
         'query': cql_query
     }
-    response = requests.get(url, params=data)
+    try:
+        response = requests.get(url, params=data)
+    except requests.exceptions.RequestException as e:
+        writelog(str(e))
+        continue
+
     body = response.json()
 
     if total_records == None:
@@ -70,13 +75,19 @@ while True:
     # Process each entry
     entries = body['feed']['entry']
     for entry in entries:
+
         doi = entry['id']
-        writelog('Downloading DOI: %s' % doi)
+        writelog('Record index: %d, DOI: %s' % (record_index, doi))
 
         entry_url = entry['link']
 
         # Get the redirected page
-        response = requests.get(entry_url)
+        try:
+            response = requests.get(entry_url)
+        except requests.exceptions.RequestException as e:
+            writelog(str(e))
+            continue
+        
         redirected_url = response.url
 
         # Build the URL of the HTML page with the full article
@@ -85,7 +96,11 @@ while True:
         article_url = article_url_fmt % doc_id
         
         cookies = util.get_cookies('../credentials/gabe_nature.json')
-        article_fname = util.download_file(article_url, cookies, prefix=OUT_DIR + '/')
+        try:
+            article_fname = util.download_file(article_url, cookies, prefix=OUT_DIR + '/')
+        except Exception as e:
+            writelog(str(e))
+            continue
 
         # Check if something went wrong
         ext = article_fname.split('.')[-1]
@@ -93,6 +108,7 @@ while True:
             writelog('Detected error, deleting..')
             os.remove(OUT_DIR + '/' + article_fname)
 
+        record_index += 1
 
     # Check if we should exit
     if body['feed']['opensearch:itemsPerPage'] < DEFAULT_PAGESIZE:
@@ -100,7 +116,6 @@ while True:
 
     # Set the next record index
     record_index = int(body['feed']['sru:nextRecordPosition'])
-    writelog('Record index: %d' % record_index)
 
 writelog('Query download completed')
 
