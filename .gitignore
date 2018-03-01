@@ -12,3 +12,4 @@ reddit-pull/account_info.txt
 reddit-pull/decompressed.bin
 reddit-pull/raw_queries.csv
 reddit-pull/raw_submissions.txt
+reddit-pull/processed_submissions.txt
