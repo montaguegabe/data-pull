@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!-- Run this to make it work http-server C:\Users\maxob\Documents\GitHub\zi-space\visualize -->
+<html>
+<head>
+<title>Visualization</title>
+<script data-require="d3@3.4.6" data-semver="3.4.6" src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.6/d3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<meta charset="utf-8">
+
+<style>
+body {
+  font: 20px sans-serif;
+}
+div.tooltip {   
+  position: absolute;           
+  text-align: center;           
+  min-width: 100px;                  
+  min-height: 50px;                 
+  padding: 2px;             
+  font: 20px sans-serif;        
+  background: #F0F0F0;   
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+</style>
+<body>
+<div>
+<input type="text" size="30" font-size="20px" id="searchbar" onkeyup="findChar()">
+</div>
+
+<!-- <script src="http://d3js.org/d3.v4.min.js"></script> -->
+
+<script type="text/javascript">
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+function convertX(x) {
+  return   width / 200  * ( 100 + parseFloat(x))
+}
+function convertY(y) {
+  return height / 200 * (100 +  parseFloat(y)) + margin.top
+}
+// add the graph canvas to the body of the webpage
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+var g= svg.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+    .attr("id","shell");
+var div = d3.select("body").append("div")   
+    .attr("class", "tooltip")               
+    .style("opacity", 0);
+// load data
+d3.csv("tsne_query.csv", function(data) {
+  var elem = g.selectAll("g").data(data)
+  var elemEnter = elem.enter()
+      .append("g")
+      .attr("transform", function(d){return "translate("+convertX(d.x)+","+convertY(d.y)+")"})
+      .attr("id", function(d){return d.word});
+  var size = 1.5
+  elemEnter.append("text")
+      .style("font-size",size+"px")
+      .attr("dx", function(d){return -size/2})
+      .attr("dy", function(d){return size/2})
+      .text(function(d){return d.word})
+});
+  var zoom = d3.behavior.zoom()
+      .translate([0, 0])
+      .scale(1)
+      .scaleExtent([1, 16])
+      .on("zoom", zoomed);
+svg.call(zoom)
+function zoomed() {
+  g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+}
+function transform(x, y){
+    return d3.zoomIdentity
+      .translate(width / 2, height / 2)
+      .scale(16)
+      .translate(-x, -y);
+}
+function findChar(){
+  bar = document.getElementById("searchbar");
+  elem = document.getElementById(bar.value)
+  if(elem != null){
+    svg.transition()
+        .call(zoom
+              .translate([-Math.round(16*(elem.transform.animVal[0].matrix.e) - 480), 
+                -Math.round(16*elem.transform.animVal[0].matrix.f - 250)])
+              .scale(16).event
+        );
+  }
+}
+</script>
+</body>
+</html>
