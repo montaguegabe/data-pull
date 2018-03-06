@@ -13,4 +13,6 @@ reddit-pull/decompressed.bin
 reddit-pull/raw_queries.csv
 reddit-pull/raw_submissions.txt
 reddit-pull/processed_submissions.txt
-reddit-pull/climate_comments.csv
+reddit-pull/word2vec_queries.m
+reddit-pull/tsne_simple.p
+reddit-pull/X_tsne_simple.p
