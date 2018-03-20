@@ -27,3 +27,4 @@ reddit-pull/doc2vec/all_comments.csv
 reddit-pull/doc2vec/all_submissions.csv
 reddit-pull/processed_comments.csv
 reddit-pull/doc2vec/queries.doc2vec.docvecs.vectors_docs.npy
+*.doc2vec
