@@ -16,3 +16,15 @@ reddit-pull/processed_submissions.txt
 reddit-pull/word2vec_queries.m
 reddit-pull/tsne_simple.p
 reddit-pull/X_tsne_simple.p
+reddit-pull/all_comments.csv
+reddit-pull/all_submissions.csv
+reddit-pull/comments.pickle
+reddit-pull/climate_submissions.csv
+reddit-pull/climate_submissions.csv
+reddit-pull/climate_submissions.csv
+reddit-pull/visited_comments.txt
+reddit-pull/doc2vec/all_comments.csv
+reddit-pull/doc2vec/all_submissions.csv
+reddit-pull/processed_comments.csv
+reddit-pull/doc2vec/queries.doc2vec.docvecs.vectors_docs.npy
+*.doc2vec
