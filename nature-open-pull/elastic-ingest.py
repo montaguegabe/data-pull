@@ -5,6 +5,17 @@
 LOG_FNAME = 'elastic-ingest.log'
 INPUT_PATH = './data-html/'
 REVISION_NUM = 1
+NUM_CHUNKS = 2048
+
+from os import listdir
+from os.path import isfile, join
+import re
+
+file_list = [f for f in listdir(INPUT_PATH) if isfile(join(INPUT_PATH, f))]
+chunk_size = int(len(file_list) / NUM_CHUNKS) + 1
+chunks = [file_list[i:i + chunk_size] for i in xrange(0, len(file_list), chunk_size)]
+print('MAX_CHUNK: %d' % len(chunks))
+
 START_CHUNK = int(raw_input('START_CHUNK: '))
 END_CHUNK = int(raw_input('END_CHUNK: ')) # (exclusive)
 OUT_DIR = './data-doc/' # For output pickle files
@@ -27,12 +38,6 @@ def writelog(str2):
 writelog('Starting Elasticsearch ingestion...')
 writelog('START_CHUNK: ' + str(START_CHUNK))
 writelog('END_CHUNK: ' + str(END_CHUNK))
-
-from os import listdir
-from os.path import isfile, join
-import re
-
-file_list = [f for f in listdir(INPUT_PATH) if isfile(join(INPUT_PATH, f))]
 
 # We define a method that turns HTML into text
 # Source: https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python
@@ -139,7 +144,7 @@ from elasticsearch.helpers import bulk
 def filesChunkToDocsIngest(chunk):
 
     # Set up ES
-    host = 'search-earth-data-joihn22ik6zepetuzpa4hdvik4.us-east-1.es.amazonaws.com'
+    host = 'search-e5ud2nsmhsp52orvyvpqur0k09x-bkkbyr2hfjeiyujryuqkm5y3hu.us-east-1.es.amazonaws.com'
     es = Elasticsearch(
         hosts=[{'host': host, 'port': 443}],
         use_ssl=True,
@@ -160,15 +165,10 @@ def filesChunkToDocsIngest(chunk):
 
     return (errors, docs, resp)
 
-NUM_CHUNKS = 2048
-chunk_size = int(len(file_list) / NUM_CHUNKS) + 1
-chunks = [file_list[i:i + chunk_size] for i in xrange(0, len(file_list), chunk_size)]
-
 #print 'Chunks:'
 #for chunk in chunks:
 #    print len(chunk)
 
-print('MAX_CHUNK: %d' % len(chunks))
 target_chunks = chunks[START_CHUNK:END_CHUNK]
 
 # Map
@@ -180,19 +180,19 @@ print 'Cores:', num_cores
 results = Parallel(n_jobs=num_cores)(delayed(filesChunkToDocsIngest)(i) for i in target_chunks)
 
 # Reduce while writing errors
-doc_list = []
+#doc_list = []
 for result in results:
     (errors, docs, resp) = result
     writelog('Success/failure: (%d, %d)' % (resp[0], resp[1]))
     for i in xrange(len(docs)):
         err = errors[i]
-        doc = docs[i]
+        #doc = docs[i]
         if err:
             writelog(str(err))
-        doc_list.append(doc)
+        #doc_list.append(doc)
 
 # Pickle
-import cPickle as pickle
-pickle.dump(doc_list, open(OUT_DIR + 'doc%d-%d-%d.p' % (REVISION_NUM, START_CHUNK, END_CHUNK), 'wb'))
+#import cPickle as pickle
+#pickle.dump(doc_list, open(OUT_DIR + 'doc%d-%d-%d.p' % (REVISION_NUM, START_CHUNK, END_CHUNK), 'wb'))
 
 writelog('Ingestion complete')
