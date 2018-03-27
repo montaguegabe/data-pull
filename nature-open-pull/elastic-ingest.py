@@ -184,12 +184,14 @@ results = Parallel(n_jobs=num_cores)(delayed(filesChunkToDocsIngest)(i) for i in
 for result in results:
     (errors, docs, resp) = result
     writelog('Success/failure: (%d, %d)' % (resp[0], resp[1]))
+    """
     for i in xrange(len(docs)):
         err = errors[i]
         #doc = docs[i]
         if err:
             writelog(str(err))
         #doc_list.append(doc)
+    """
 
 # Pickle
 #import cPickle as pickle
